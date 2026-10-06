@@ -1,0 +1,38 @@
+{
+  "model_name": "TabPFN_Pretrained_v2.5",
+  "checkpoint_source": "models/tabpfn-v2.5-regressor-v2.5_real.ckpt",
+  "checkpoint_size_bytes": 40831868,
+  "eval_protocol": "5-Fold GroupKFold (group=experiment_id)",
+  "n_development_rows": 2800,
+  "n_development_cohorts": 28,
+  "v1_raw_metrics": {
+    "overall_mae": 1.4347,
+    "overall_rmse": 3.04,
+    "overall_r2": 0.9459,
+    "compressive_mae": 1.6856,
+    "compressive_rmse": 2.0899,
+    "compressive_r2": 0.8535,
+    "compressive_mape": 5.6,
+    "flexural_mae": 2.2947,
+    "flexural_rmse": 4.8911,
+    "flexural_r2": -38.673,
+    "tensile_mae": 0.4348,
+    "tensile_rmse": 0.6442,
+    "tensile_r2": -0.5015
+  },
+  "v2_engineered_metrics": {
+    "overall_mae": 1.2664,
+    "overall_rmse": 2.307,
+    "overall_r2": 0.9688,
+    "compressive_mae": 1.6168,
+    "compressive_rmse": 2.0385,
+    "compressive_r2": 0.8607,
+    "compressive_mape": 5.31,
+    "flexural_mae": 1.8116,
+    "flexural_rmse": 3.436,
+    "flexural_r2": -18.5784,
+    "tensile_mae": 0.4603,
+    "tensile_rmse": 0.7331,
+    "tensile_r2": -0.9444
+  }
+}

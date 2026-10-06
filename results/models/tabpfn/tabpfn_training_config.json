@@ -1,0 +1,33 @@
+{
+  "model_name": "FinetunedTabPFNRegressor",
+  "base_checkpoint": "models/tabpfn-v2.5-regressor-v2.5_real.ckpt",
+  "architecture": "TabPFN Tabular Transformer v2.5",
+  "hardware": {
+    "device": "cpu",
+    "platform": "win32",
+    "python_version": "3.11.15 (main, May 10 2026, 19:31:25) [MSC v.1944 64 bit (AMD64)]",
+    "torch_version": "2.14.0+cpu",
+    "cuda_available": false
+  },
+  "hyperparameters": {
+    "epochs": 3,
+    "learning_rate": 5e-06,
+    "optimizer": "AdamW",
+    "weight_decay": 0.01,
+    "loss_formulation": "BarDistribution CE (weight=0.0) + CRPS (weight=1.0) + MSE (weight=1.0)",
+    "grad_clip_value": 1.0,
+    "n_estimators_finetune": 1,
+    "n_estimators_validation": 1,
+    "n_estimators_final_inference": 2,
+    "random_state": 42
+  },
+  "training_partition": {
+    "source": "data/splits/development_rows.csv",
+    "n_train_samples": 2200,
+    "n_train_cohorts": 22,
+    "n_val_samples": 600,
+    "n_val_cohorts": 6,
+    "grouping_variable": "experiment_id"
+  },
+  "feature_set": "V2_ENGINEERED (11 features)"
+}

@@ -1,0 +1,29 @@
+{
+  "phase": "4.1",
+  "timestamp": "2026-09-26T23:57:09.283451",
+  "csv_sha256": "0d18690dac46ce06ccb3bca1c8b7eb1dd752b7cbcc9d95821473730afb70000a",
+  "parq_sha256": "0909cb72fcf61bcff7a1e9f98f2f0363953f7d4a346b0dd41da7da0efa63678a",
+  "n_dev_rows": 2800,
+  "n_test_rows": 800,
+  "n_dev_cohorts": 28,
+  "n_models": 6,
+  "models": [
+    "Dummy",
+    "Linear",
+    "Ridge",
+    "RandomForest",
+    "XGBoost",
+    "CatBoost"
+  ],
+  "feature_sets": [
+    "core",
+    "expanded"
+  ],
+  "n_folds": 5,
+  "random_state": 42,
+  "overlap_sample": 0,
+  "overlap_sample_preds": 0,
+  "n_prediction_rows": 67200,
+  "immutable_csv_ok": true,
+  "immutable_parq_ok": true
+}

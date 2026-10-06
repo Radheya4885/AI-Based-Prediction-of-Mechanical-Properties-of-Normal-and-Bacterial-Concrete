@@ -1,0 +1,31 @@
+{
+  "pipeline": "TabPFN Concrete Evaluation & Domain Adaptation",
+  "timestamp": "2026-10-01T17:14:58Z",
+  "pretrained_checkpoint": "G:\\Projects\\Concrete testing\\models\\tabpfn-v2.5-regressor-v2.5_real.ckpt",
+  "dataset": "G:\\Projects\\Concrete testing\\data\\tabpfn_concrete_v1\\tabpfn_concrete_model.csv",
+  "dev_rows": 2800,
+  "dev_cohorts": 28,
+  "n_folds": 5,
+  "grouping": "experiment_id",
+  "v1_raw_features": [
+    "curing_age_days",
+    "concrete_type",
+    "bacterial_concentration_cells_ml",
+    "mechanical_property"
+  ],
+  "v2_engineered_features": [
+    "curing_age_days",
+    "concrete_type",
+    "bacterial_concentration_cells_ml",
+    "mechanical_property",
+    "age_log",
+    "age_sqrt",
+    "bacterial_present",
+    "bacterial_concentration_log",
+    "age_x_bacterial",
+    "age_log_x_bacterial",
+    "age_squared"
+  ],
+  "total_predictions_saved": 5600,
+  "hardware": "CPU (PyTorch 2.14.0+cpu, Windows AMD64)"
+}
