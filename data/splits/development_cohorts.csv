@@ -1,0 +1,29 @@
+experiment_id,mechanical_property,concrete_type,curing_age_days,specimen_geometry,bacterial_concentration_cells_ml,row_count,is_restored_cohort
+EXP_CS_BC_14d,Compressive Strength,Bacterial Concrete,14,150mm Cube,1000000,100,False
+EXP_CS_BC_21d,Compressive Strength,Bacterial Concrete,21,150mm Cube,1000000,100,False
+EXP_CS_BC_56d,Compressive Strength,Bacterial Concrete,56,150mm Cube,1000000,100,False
+EXP_CS_BC_90d,Compressive Strength,Bacterial Concrete,90,150mm Cube,1000000,100,False
+EXP_CS_NC_14d,Compressive Strength,Normal Concrete,14,150mm Cube,0,100,False
+EXP_CS_NC_21d,Compressive Strength,Normal Concrete,21,150mm Cube,0,100,False
+EXP_CS_NC_28d,Compressive Strength,Normal Concrete,28,150mm Cube,0,100,False
+EXP_CS_NC_56d,Compressive Strength,Normal Concrete,56,150mm Cube,0,100,False
+EXP_CS_NC_90d,Compressive Strength,Normal Concrete,90,150mm Cube,0,100,False
+EXP_FS_BC_14d,Flexural Strength,Bacterial Concrete,14,100x100x500mm Prism,1000000,100,False
+EXP_FS_BC_21d,Flexural Strength,Bacterial Concrete,21,100x100x500mm Prism,1000000,100,False
+EXP_FS_BC_28d,Flexural Strength,Bacterial Concrete,28,100x100x500mm Prism,1000000,100,False
+EXP_FS_BC_56d,Flexural Strength,Bacterial Concrete,56,100x100x500mm Prism,1000000,100,True
+EXP_FS_NC_07d,Flexural Strength,Normal Concrete,7,100x100x500mm Prism,0,100,False
+EXP_FS_NC_14d,Flexural Strength,Normal Concrete,14,100x100x500mm Prism,0,100,False
+EXP_FS_NC_21d,Flexural Strength,Normal Concrete,21,100x100x500mm Prism,0,100,False
+EXP_FS_NC_28d,Flexural Strength,Normal Concrete,28,100x100x500mm Prism,0,100,False
+EXP_FS_NC_90d,Flexural Strength,Normal Concrete,90,100x100x500mm Prism,0,100,False
+EXP_TS_BC_07d,Split Tensile Strength,Bacterial Concrete,7,150x300mm Cylinder,1000000,100,False
+EXP_TS_BC_14d,Split Tensile Strength,Bacterial Concrete,14,150x300mm Cylinder,1000000,100,False
+EXP_TS_BC_21d,Split Tensile Strength,Bacterial Concrete,21,150x300mm Cylinder,1000000,100,False
+EXP_TS_BC_28d,Split Tensile Strength,Bacterial Concrete,28,150x300mm Cylinder,1000000,100,False
+EXP_TS_BC_56d,Split Tensile Strength,Bacterial Concrete,56,150x300mm Cylinder,1000000,100,False
+EXP_TS_NC_07d,Split Tensile Strength,Normal Concrete,7,150x300mm Cylinder,0,100,False
+EXP_TS_NC_14d,Split Tensile Strength,Normal Concrete,14,150x300mm Cylinder,0,100,False
+EXP_TS_NC_28d,Split Tensile Strength,Normal Concrete,28,150x300mm Cylinder,0,100,False
+EXP_TS_NC_56d,Split Tensile Strength,Normal Concrete,56,150x300mm Cylinder,0,100,False
+EXP_TS_NC_90d,Split Tensile Strength,Normal Concrete,90,150x300mm Cylinder,0,100,False

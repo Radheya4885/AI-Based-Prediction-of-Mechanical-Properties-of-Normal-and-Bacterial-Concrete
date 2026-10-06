@@ -1,0 +1,9 @@
+experiment_id,mechanical_property,concrete_type,curing_age_days,specimen_geometry,bacterial_concentration_cells_ml,row_count,is_restored_cohort
+EXP_CS_BC_07d,Compressive Strength,Bacterial Concrete,7,150mm Cube,1000000,100,False
+EXP_CS_BC_28d,Compressive Strength,Bacterial Concrete,28,150mm Cube,1000000,100,False
+EXP_CS_NC_07d,Compressive Strength,Normal Concrete,7,150mm Cube,0,100,False
+EXP_FS_BC_07d,Flexural Strength,Bacterial Concrete,7,100x100x500mm Prism,1000000,100,False
+EXP_FS_BC_90d,Flexural Strength,Bacterial Concrete,90,100x100x500mm Prism,1000000,100,True
+EXP_FS_NC_56d,Flexural Strength,Normal Concrete,56,100x100x500mm Prism,0,100,False
+EXP_TS_BC_90d,Split Tensile Strength,Bacterial Concrete,90,150x300mm Cylinder,1000000,100,False
+EXP_TS_NC_21d,Split Tensile Strength,Normal Concrete,21,150x300mm Cylinder,0,100,False

@@ -1,0 +1,48 @@
+{
+  "source_dataset": "data/master_dataset.csv",
+  "total_rows": 3600,
+  "random_seed": 42,
+  "scenarios": {
+    "scenario_a": {
+      "file_json": "data/splits/scenario_a_random_baseline.json",
+      "file_csv": "data/splits/scenario_a_random_baseline.csv",
+      "train_rows": 2880,
+      "test_rows": 720
+    },
+    "scenario_b": {
+      "file_json": "data/splits/scenario_b_cohort_grouped.json",
+      "file_csv": "data/splits/scenario_b_cohort_grouped.csv",
+      "train_rows": 2800,
+      "test_rows": 800,
+      "train_cohorts": 28,
+      "test_cohorts": 8,
+      "test_cohort_list": [
+        "EXP_CS_BC_07d",
+        "EXP_CS_BC_28d",
+        "EXP_CS_NC_07d",
+        "EXP_FS_BC_07d",
+        "EXP_FS_BC_90d",
+        "EXP_FS_NC_56d",
+        "EXP_TS_BC_90d",
+        "EXP_TS_NC_21d"
+      ]
+    },
+    "scenario_c": {
+      "file_json": "data/splits/scenario_c_leave_age_out.json",
+      "file_csv": "data/splits/scenario_c_leave_age_out.csv",
+      "total_folds": 6,
+      "held_out_ages": [
+        7,
+        14,
+        21,
+        28,
+        56,
+        90
+      ],
+      "rows_per_fold": {
+        "train": 3000,
+        "test": 600
+      }
+    }
+  }
+}

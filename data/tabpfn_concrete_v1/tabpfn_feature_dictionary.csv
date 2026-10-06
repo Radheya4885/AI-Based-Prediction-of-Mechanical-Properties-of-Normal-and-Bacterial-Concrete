@@ -1,0 +1,13 @@
+feature_name,category,dtype,v1_raw,v2_engineered,description
+curing_age_days,ORIGINAL,int64,True,True,"Hydration curing duration in days (7, 14, 21, 28, 56, 90)"
+concrete_type,ORIGINAL,string,True,True,Concrete mix classification ('Normal Concrete' vs 'Bacterial Concrete')
+bacterial_concentration_cells_ml,ORIGINAL,int64,True,True,"Bacterial cell dosage in cells/mL (0 for Control, 1,000,000 for Inoculated)"
+mechanical_property,ORIGINAL,string,True,True,"Target property type for unified multi-task modeling ('Compressive Strength', 'Flexural Strength', 'Split Tensile Strength')"
+age_log,DERIVED,float64,False,True,Natural log of curing age: ln(1 + curing_age_days); models logarithmic hydration kinetics
+age_sqrt,DERIVED,float64,False,True,Square root of curing age: sqrt(curing_age_days); models diffusion-limited kinetics
+bacterial_present,DERIVED,int64,False,True,"Binary biological indicator: 1 if Bacterial Concrete, 0 if Normal Concrete"
+bacterial_concentration_log,DERIVED,float64,False,True,Logarithmic dosage scale: ln(1 + bacterial_concentration_cells_ml)
+age_x_bacterial,DERIVED,float64,False,True,Interaction: curing_age_days * bacterial_present; captures progressive biomineralization gain
+age_log_x_bacterial,DERIVED,float64,False,True,Interaction: age_log * bacterial_present; log-time biomineralization interaction
+age_squared,DERIVED,float64,False,True,Polynomial age term: curing_age_days^2; quadratic curvature representation
+age_cubed,DERIVED,float64,False,False,"Polynomial age term: curing_age_days^3; evaluated in ablation, omitted from V2 to avoid high-degree runaway"

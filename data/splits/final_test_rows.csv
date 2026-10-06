@@ -1,0 +1,801 @@
+sample_id,experiment_id,sample_replicate,concrete_type,bacterial_status,bacterial_species,bacterial_concentration_cells_ml,cement_type,curing_age_days,mechanical_property,strength_mpa,specimen_geometry,source_file,source_sheet,source_row_index,is_restored_value
+CS_NC_07d_001,EXP_CS_NC_07d,1,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,20.25,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,3,False
+CS_BC_07d_001,EXP_CS_BC_07d,1,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,23.14,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,3,False
+CS_NC_07d_002,EXP_CS_NC_07d,2,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.29,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,4,False
+CS_BC_07d_002,EXP_CS_BC_07d,2,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,20.62,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,4,False
+CS_NC_07d_003,EXP_CS_NC_07d,3,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,20.47,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,5,False
+CS_BC_07d_003,EXP_CS_BC_07d,3,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,23.3,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,5,False
+CS_NC_07d_004,EXP_CS_NC_07d,4,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,21.78,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,6,False
+CS_BC_07d_004,EXP_CS_BC_07d,4,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,24.03,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,6,False
+CS_NC_07d_005,EXP_CS_NC_07d,5,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.15,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,7,False
+CS_BC_07d_005,EXP_CS_BC_07d,5,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,22.62,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,7,False
+CS_NC_07d_006,EXP_CS_NC_07d,6,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.15,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,8,False
+CS_BC_07d_006,EXP_CS_BC_07d,6,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,24.82,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,8,False
+CS_NC_07d_007,EXP_CS_NC_07d,7,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,21.87,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,9,False
+CS_BC_07d_007,EXP_CS_BC_07d,7,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,20.84,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,9,False
+CS_NC_07d_008,EXP_CS_NC_07d,8,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,20.65,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,10,False
+CS_BC_07d_008,EXP_CS_BC_07d,8,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,20.13,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,10,False
+CS_NC_07d_009,EXP_CS_NC_07d,9,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,18.8,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,11,False
+CS_BC_07d_009,EXP_CS_BC_07d,9,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,19.33,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,11,False
+CS_NC_07d_010,EXP_CS_NC_07d,10,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,20.31,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,12,False
+CS_BC_07d_010,EXP_CS_BC_07d,10,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,24.24,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,12,False
+CS_NC_07d_011,EXP_CS_NC_07d,11,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,18.8,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,13,False
+CS_BC_07d_011,EXP_CS_BC_07d,11,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,22.98,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,13,False
+CS_NC_07d_012,EXP_CS_NC_07d,12,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,18.8,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,14,False
+CS_BC_07d_012,EXP_CS_BC_07d,12,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.92,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,14,False
+CS_NC_07d_013,EXP_CS_NC_07d,13,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.86,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,15,False
+CS_BC_07d_013,EXP_CS_BC_07d,13,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,22.42,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,15,False
+CS_NC_07d_014,EXP_CS_NC_07d,14,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,16.63,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,16,False
+CS_BC_07d_014,EXP_CS_BC_07d,14,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,20.31,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,16,False
+CS_NC_07d_015,EXP_CS_NC_07d,15,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,16.91,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,17,False
+CS_BC_07d_015,EXP_CS_BC_07d,15,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,25.67,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,17,False
+CS_NC_07d_016,EXP_CS_NC_07d,16,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,18.66,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,18,False
+CS_BC_07d_016,EXP_CS_BC_07d,16,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,22.19,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,18,False
+CS_NC_07d_017,EXP_CS_NC_07d,17,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,17.98,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,19,False
+CS_BC_07d_017,EXP_CS_BC_07d,17,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,22.16,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,19,False
+CS_NC_07d_018,EXP_CS_NC_07d,18,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.97,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,20,False
+CS_BC_07d_018,EXP_CS_BC_07d,18,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,23.09,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,20,False
+CS_NC_07d_019,EXP_CS_NC_07d,19,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,18.14,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,21,False
+CS_BC_07d_019,EXP_CS_BC_07d,19,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,22.72,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,21,False
+CS_NC_07d_020,EXP_CS_NC_07d,20,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,17.38,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,22,False
+CS_BC_07d_020,EXP_CS_BC_07d,20,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,22.34,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,22,False
+CS_NC_07d_021,EXP_CS_NC_07d,21,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,21.7,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,23,False
+CS_BC_07d_021,EXP_CS_BC_07d,21,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,20.81,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,23,False
+CS_NC_07d_022,EXP_CS_NC_07d,22,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.16,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,24,False
+CS_BC_07d_022,EXP_CS_BC_07d,22,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,22.71,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,24,False
+CS_NC_07d_023,EXP_CS_NC_07d,23,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.6,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,25,False
+CS_BC_07d_023,EXP_CS_BC_07d,23,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,24.82,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,25,False
+CS_NC_07d_024,EXP_CS_NC_07d,24,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,17.36,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,26,False
+CS_BC_07d_024,EXP_CS_BC_07d,24,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,24.02,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,26,False
+CS_NC_07d_025,EXP_CS_NC_07d,25,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,18.68,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,27,False
+CS_BC_07d_025,EXP_CS_BC_07d,25,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,24.39,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,27,False
+CS_NC_07d_026,EXP_CS_NC_07d,26,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.67,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,28,False
+CS_BC_07d_026,EXP_CS_BC_07d,26,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.23,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,28,False
+CS_NC_07d_027,EXP_CS_NC_07d,27,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,17.77,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,29,False
+CS_BC_07d_027,EXP_CS_BC_07d,27,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,20.52,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,29,False
+CS_NC_07d_028,EXP_CS_NC_07d,28,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,20.06,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,30,False
+CS_BC_07d_028,EXP_CS_BC_07d,28,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.81,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,30,False
+CS_NC_07d_029,EXP_CS_NC_07d,29,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,18.6,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,31,False
+CS_BC_07d_029,EXP_CS_BC_07d,29,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,22.08,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,31,False
+CS_NC_07d_030,EXP_CS_NC_07d,30,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.06,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,32,False
+CS_BC_07d_030,EXP_CS_BC_07d,30,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,23.64,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,32,False
+CS_NC_07d_031,EXP_CS_NC_07d,31,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,18.6,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,33,False
+CS_BC_07d_031,EXP_CS_BC_07d,31,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,19.46,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,33,False
+CS_NC_07d_032,EXP_CS_NC_07d,32,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,22.28,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,34,False
+CS_BC_07d_032,EXP_CS_BC_07d,32,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,24.29,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,34,False
+CS_NC_07d_033,EXP_CS_NC_07d,33,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.48,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,35,False
+CS_BC_07d_033,EXP_CS_BC_07d,33,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.76,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,35,False
+CS_NC_07d_034,EXP_CS_NC_07d,34,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,17.91,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,36,False
+CS_BC_07d_034,EXP_CS_BC_07d,34,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.36,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,36,False
+CS_NC_07d_035,EXP_CS_NC_07d,35,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,20.73,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,37,False
+CS_BC_07d_035,EXP_CS_BC_07d,35,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,20.48,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,37,False
+CS_NC_07d_036,EXP_CS_NC_07d,36,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,17.67,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,38,False
+CS_BC_07d_036,EXP_CS_BC_07d,36,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,19.52,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,38,False
+CS_NC_07d_037,EXP_CS_NC_07d,37,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.81,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,39,False
+CS_BC_07d_037,EXP_CS_BC_07d,37,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,23.23,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,39,False
+CS_NC_07d_038,EXP_CS_NC_07d,38,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,16.56,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,40,False
+CS_BC_07d_038,EXP_CS_BC_07d,38,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,22.11,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,40,False
+CS_NC_07d_039,EXP_CS_NC_07d,39,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,17.51,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,41,False
+CS_BC_07d_039,EXP_CS_BC_07d,39,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,20.07,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,41,False
+CS_NC_07d_040,EXP_CS_NC_07d,40,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.8,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,42,False
+CS_BC_07d_040,EXP_CS_BC_07d,40,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,20.06,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,42,False
+CS_NC_07d_041,EXP_CS_NC_07d,41,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,20.61,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,43,False
+CS_BC_07d_041,EXP_CS_BC_07d,41,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.5,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,43,False
+CS_NC_07d_042,EXP_CS_NC_07d,42,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.76,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,44,False
+CS_BC_07d_042,EXP_CS_BC_07d,42,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,24.5,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,44,False
+CS_NC_07d_043,EXP_CS_NC_07d,43,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.33,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,45,False
+CS_BC_07d_043,EXP_CS_BC_07d,43,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.61,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,45,False
+CS_NC_07d_044,EXP_CS_NC_07d,44,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.05,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,46,False
+CS_BC_07d_044,EXP_CS_BC_07d,44,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,19.75,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,46,False
+CS_NC_07d_045,EXP_CS_NC_07d,45,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,17.28,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,47,False
+CS_BC_07d_045,EXP_CS_BC_07d,45,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.63,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,47,False
+CS_NC_07d_046,EXP_CS_NC_07d,46,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,18.42,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,48,False
+CS_BC_07d_046,EXP_CS_BC_07d,46,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.59,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,48,False
+CS_NC_07d_047,EXP_CS_NC_07d,47,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,18.81,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,49,False
+CS_BC_07d_047,EXP_CS_BC_07d,47,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,17.95,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,49,False
+CS_NC_07d_048,EXP_CS_NC_07d,48,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,21.09,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,50,False
+CS_BC_07d_048,EXP_CS_BC_07d,48,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.92,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,50,False
+CS_NC_07d_049,EXP_CS_NC_07d,49,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,20.02,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,51,False
+CS_BC_07d_049,EXP_CS_BC_07d,49,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.65,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,51,False
+CS_NC_07d_050,EXP_CS_NC_07d,50,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,16.86,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,52,False
+CS_BC_07d_050,EXP_CS_BC_07d,50,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,23.04,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,52,False
+CS_NC_07d_051,EXP_CS_NC_07d,51,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.99,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,53,False
+CS_BC_07d_051,EXP_CS_BC_07d,51,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,24.77,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,53,False
+CS_NC_07d_052,EXP_CS_NC_07d,52,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,18.92,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,54,False
+CS_BC_07d_052,EXP_CS_BC_07d,52,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,23.69,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,54,False
+CS_NC_07d_053,EXP_CS_NC_07d,53,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,18.48,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,55,False
+CS_BC_07d_053,EXP_CS_BC_07d,53,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.6,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,55,False
+CS_NC_07d_054,EXP_CS_NC_07d,54,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,20.42,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,56,False
+CS_BC_07d_054,EXP_CS_BC_07d,54,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,20.34,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,56,False
+CS_NC_07d_055,EXP_CS_NC_07d,55,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,21.05,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,57,False
+CS_BC_07d_055,EXP_CS_BC_07d,55,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,25.86,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,57,False
+CS_NC_07d_056,EXP_CS_NC_07d,56,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,20.9,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,58,False
+CS_BC_07d_056,EXP_CS_BC_07d,56,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,22.09,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,58,False
+CS_NC_07d_057,EXP_CS_NC_07d,57,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,18.24,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,59,False
+CS_BC_07d_057,EXP_CS_BC_07d,57,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,22.02,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,59,False
+CS_NC_07d_058,EXP_CS_NC_07d,58,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.04,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,60,False
+CS_BC_07d_058,EXP_CS_BC_07d,58,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.96,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,60,False
+CS_NC_07d_059,EXP_CS_NC_07d,59,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,20.0,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,61,False
+CS_BC_07d_059,EXP_CS_BC_07d,59,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,22.3,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,61,False
+CS_NC_07d_060,EXP_CS_NC_07d,60,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,20.96,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,62,False
+CS_BC_07d_060,EXP_CS_BC_07d,60,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.78,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,62,False
+CS_NC_07d_061,EXP_CS_NC_07d,61,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,18.78,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,63,False
+CS_BC_07d_061,EXP_CS_BC_07d,61,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.14,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,63,False
+CS_NC_07d_062,EXP_CS_NC_07d,62,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.22,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,64,False
+CS_BC_07d_062,EXP_CS_BC_07d,62,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.18,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,64,False
+CS_NC_07d_063,EXP_CS_NC_07d,63,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,17.84,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,65,False
+CS_BC_07d_063,EXP_CS_BC_07d,63,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.95,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,65,False
+CS_NC_07d_064,EXP_CS_NC_07d,64,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,17.71,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,66,False
+CS_BC_07d_064,EXP_CS_BC_07d,64,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.18,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,66,False
+CS_NC_07d_065,EXP_CS_NC_07d,65,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,20.72,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,67,False
+CS_BC_07d_065,EXP_CS_BC_07d,65,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,20.93,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,67,False
+CS_NC_07d_066,EXP_CS_NC_07d,66,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,21.53,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,68,False
+CS_BC_07d_066,EXP_CS_BC_07d,66,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,22.16,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,68,False
+CS_NC_07d_067,EXP_CS_NC_07d,67,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.39,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,69,False
+CS_BC_07d_067,EXP_CS_BC_07d,67,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.62,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,69,False
+CS_NC_07d_068,EXP_CS_NC_07d,68,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,21.01,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,70,False
+CS_BC_07d_068,EXP_CS_BC_07d,68,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,24.26,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,70,False
+CS_NC_07d_069,EXP_CS_NC_07d,69,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,20.04,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,71,False
+CS_BC_07d_069,EXP_CS_BC_07d,69,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,18.02,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,71,False
+CS_NC_07d_070,EXP_CS_NC_07d,70,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,18.53,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,72,False
+CS_BC_07d_070,EXP_CS_BC_07d,70,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,23.64,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,72,False
+CS_NC_07d_071,EXP_CS_NC_07d,71,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,20.04,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,73,False
+CS_BC_07d_071,EXP_CS_BC_07d,71,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,23.87,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,73,False
+CS_NC_07d_072,EXP_CS_NC_07d,72,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,21.81,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,74,False
+CS_BC_07d_072,EXP_CS_BC_07d,72,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,18.89,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,74,False
+CS_NC_07d_073,EXP_CS_NC_07d,73,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.45,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,75,False
+CS_BC_07d_073,EXP_CS_BC_07d,73,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.49,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,75,False
+CS_NC_07d_074,EXP_CS_NC_07d,74,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,21.85,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,76,False
+CS_BC_07d_074,EXP_CS_BC_07d,74,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.44,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,76,False
+CS_NC_07d_075,EXP_CS_NC_07d,75,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,15.57,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,77,False
+CS_BC_07d_075,EXP_CS_BC_07d,75,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,19.89,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,77,False
+CS_NC_07d_076,EXP_CS_NC_07d,76,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,20.73,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,78,False
+CS_BC_07d_076,EXP_CS_BC_07d,76,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,20.83,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,78,False
+CS_NC_07d_077,EXP_CS_NC_07d,77,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.63,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,79,False
+CS_BC_07d_077,EXP_CS_BC_07d,77,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,20.33,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,79,False
+CS_NC_07d_078,EXP_CS_NC_07d,78,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.05,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,80,False
+CS_BC_07d_078,EXP_CS_BC_07d,78,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,24.63,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,80,False
+CS_NC_07d_079,EXP_CS_NC_07d,79,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.64,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,81,False
+CS_BC_07d_079,EXP_CS_BC_07d,79,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,23.4,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,81,False
+CS_NC_07d_080,EXP_CS_NC_07d,80,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,16.52,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,82,False
+CS_BC_07d_080,EXP_CS_BC_07d,80,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,23.91,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,82,False
+CS_NC_07d_081,EXP_CS_NC_07d,81,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.17,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,83,False
+CS_BC_07d_081,EXP_CS_BC_07d,81,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,23.08,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,83,False
+CS_NC_07d_082,EXP_CS_NC_07d,82,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,20.04,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,84,False
+CS_BC_07d_082,EXP_CS_BC_07d,82,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,20.31,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,84,False
+CS_NC_07d_083,EXP_CS_NC_07d,83,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,21.72,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,85,False
+CS_BC_07d_083,EXP_CS_BC_07d,83,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.21,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,85,False
+CS_NC_07d_084,EXP_CS_NC_07d,84,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,18.72,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,86,False
+CS_BC_07d_084,EXP_CS_BC_07d,84,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,22.73,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,86,False
+CS_NC_07d_085,EXP_CS_NC_07d,85,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,18.29,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,87,False
+CS_BC_07d_085,EXP_CS_BC_07d,85,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,20.17,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,87,False
+CS_NC_07d_086,EXP_CS_NC_07d,86,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,18.75,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,88,False
+CS_BC_07d_086,EXP_CS_BC_07d,86,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,23.07,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,88,False
+CS_NC_07d_087,EXP_CS_NC_07d,87,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,20.87,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,89,False
+CS_BC_07d_087,EXP_CS_BC_07d,87,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.64,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,89,False
+CS_NC_07d_088,EXP_CS_NC_07d,88,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.99,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,90,False
+CS_BC_07d_088,EXP_CS_BC_07d,88,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.44,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,90,False
+CS_NC_07d_089,EXP_CS_NC_07d,89,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,18.71,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,91,False
+CS_BC_07d_089,EXP_CS_BC_07d,89,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,23.07,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,91,False
+CS_NC_07d_090,EXP_CS_NC_07d,90,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,20.27,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,92,False
+CS_BC_07d_090,EXP_CS_BC_07d,90,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,22.67,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,92,False
+CS_NC_07d_091,EXP_CS_NC_07d,91,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.65,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,93,False
+CS_BC_07d_091,EXP_CS_BC_07d,91,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.46,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,93,False
+CS_NC_07d_092,EXP_CS_NC_07d,92,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,20.95,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,94,False
+CS_BC_07d_092,EXP_CS_BC_07d,92,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,23.74,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,94,False
+CS_NC_07d_093,EXP_CS_NC_07d,93,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,18.45,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,95,False
+CS_BC_07d_093,EXP_CS_BC_07d,93,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,20.38,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,95,False
+CS_NC_07d_094,EXP_CS_NC_07d,94,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.01,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,96,False
+CS_BC_07d_094,EXP_CS_BC_07d,94,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,22.92,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,96,False
+CS_NC_07d_095,EXP_CS_NC_07d,95,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,18.91,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,97,False
+CS_BC_07d_095,EXP_CS_BC_07d,95,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,22.89,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,97,False
+CS_NC_07d_096,EXP_CS_NC_07d,96,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,17.3,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,98,False
+CS_BC_07d_096,EXP_CS_BC_07d,96,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.54,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,98,False
+CS_NC_07d_097,EXP_CS_NC_07d,97,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.94,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,99,False
+CS_BC_07d_097,EXP_CS_BC_07d,97,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,22.49,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,99,False
+CS_NC_07d_098,EXP_CS_NC_07d,98,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.89,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,100,False
+CS_BC_07d_098,EXP_CS_BC_07d,98,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,20.12,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,100,False
+CS_NC_07d_099,EXP_CS_NC_07d,99,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.51,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,101,False
+CS_BC_07d_099,EXP_CS_BC_07d,99,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,23.39,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,101,False
+CS_NC_07d_100,EXP_CS_NC_07d,100,Normal Concrete,Control,,0,OPC 53 (UltraTech),7,Compressive Strength,19.15,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,102,False
+CS_BC_07d_100,EXP_CS_BC_07d,100,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Compressive Strength,21.72,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,102,False
+CS_BC_28d_001,EXP_CS_BC_28d,1,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.55,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,303,False
+CS_BC_28d_002,EXP_CS_BC_28d,2,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,32.41,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,304,False
+CS_BC_28d_003,EXP_CS_BC_28d,3,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.04,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,305,False
+CS_BC_28d_004,EXP_CS_BC_28d,4,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,34.92,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,306,False
+CS_BC_28d_005,EXP_CS_BC_28d,5,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.29,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,307,False
+CS_BC_28d_006,EXP_CS_BC_28d,6,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.07,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,308,False
+CS_BC_28d_007,EXP_CS_BC_28d,7,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,30.96,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,309,False
+CS_BC_28d_008,EXP_CS_BC_28d,8,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,34.12,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,310,False
+CS_BC_28d_009,EXP_CS_BC_28d,9,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.97,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,311,False
+CS_BC_28d_010,EXP_CS_BC_28d,10,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,36.24,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,312,False
+CS_BC_28d_011,EXP_CS_BC_28d,11,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,32.54,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,313,False
+CS_BC_28d_012,EXP_CS_BC_28d,12,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.33,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,314,False
+CS_BC_28d_013,EXP_CS_BC_28d,13,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.37,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,315,False
+CS_BC_28d_014,EXP_CS_BC_28d,14,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,35.37,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,316,False
+CS_BC_28d_015,EXP_CS_BC_28d,15,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,32.86,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,317,False
+CS_BC_28d_016,EXP_CS_BC_28d,16,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.42,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,318,False
+CS_BC_28d_017,EXP_CS_BC_28d,17,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.91,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,319,False
+CS_BC_28d_018,EXP_CS_BC_28d,18,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.28,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,320,False
+CS_BC_28d_019,EXP_CS_BC_28d,19,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,32.33,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,321,False
+CS_BC_28d_020,EXP_CS_BC_28d,20,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.29,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,322,False
+CS_BC_28d_021,EXP_CS_BC_28d,21,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,34.61,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,323,False
+CS_BC_28d_022,EXP_CS_BC_28d,22,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,31.46,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,324,False
+CS_BC_28d_023,EXP_CS_BC_28d,23,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.2,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,325,False
+CS_BC_28d_024,EXP_CS_BC_28d,24,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,31.95,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,326,False
+CS_BC_28d_025,EXP_CS_BC_28d,25,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,34.79,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,327,False
+CS_BC_28d_026,EXP_CS_BC_28d,26,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,30.72,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,328,False
+CS_BC_28d_027,EXP_CS_BC_28d,27,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,32.16,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,329,False
+CS_BC_28d_028,EXP_CS_BC_28d,28,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.57,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,330,False
+CS_BC_28d_029,EXP_CS_BC_28d,29,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,35.35,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,331,False
+CS_BC_28d_030,EXP_CS_BC_28d,30,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,32.9,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,332,False
+CS_BC_28d_031,EXP_CS_BC_28d,31,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,32.17,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,333,False
+CS_BC_28d_032,EXP_CS_BC_28d,32,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,35.82,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,334,False
+CS_BC_28d_033,EXP_CS_BC_28d,33,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,30.83,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,335,False
+CS_BC_28d_034,EXP_CS_BC_28d,34,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,29.7,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,336,False
+CS_BC_28d_035,EXP_CS_BC_28d,35,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.66,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,337,False
+CS_BC_28d_036,EXP_CS_BC_28d,36,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,32.25,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,338,False
+CS_BC_28d_037,EXP_CS_BC_28d,37,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,31.47,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,339,False
+CS_BC_28d_038,EXP_CS_BC_28d,38,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,34.06,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,340,False
+CS_BC_28d_039,EXP_CS_BC_28d,39,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.37,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,341,False
+CS_BC_28d_040,EXP_CS_BC_28d,40,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,32.15,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,342,False
+CS_BC_28d_041,EXP_CS_BC_28d,41,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,31.08,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,343,False
+CS_BC_28d_042,EXP_CS_BC_28d,42,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,34.31,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,344,False
+CS_BC_28d_043,EXP_CS_BC_28d,43,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.98,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,345,False
+CS_BC_28d_044,EXP_CS_BC_28d,44,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,32.85,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,346,False
+CS_BC_28d_045,EXP_CS_BC_28d,45,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,35.77,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,347,False
+CS_BC_28d_046,EXP_CS_BC_28d,46,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,31.39,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,348,False
+CS_BC_28d_047,EXP_CS_BC_28d,47,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,30.71,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,349,False
+CS_BC_28d_048,EXP_CS_BC_28d,48,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,31.96,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,350,False
+CS_BC_28d_049,EXP_CS_BC_28d,49,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,32.93,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,351,False
+CS_BC_28d_050,EXP_CS_BC_28d,50,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.37,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,352,False
+CS_BC_28d_051,EXP_CS_BC_28d,51,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,32.64,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,353,False
+CS_BC_28d_052,EXP_CS_BC_28d,52,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.53,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,354,False
+CS_BC_28d_053,EXP_CS_BC_28d,53,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,31.12,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,355,False
+CS_BC_28d_054,EXP_CS_BC_28d,54,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,35.17,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,356,False
+CS_BC_28d_055,EXP_CS_BC_28d,55,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,32.88,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,357,False
+CS_BC_28d_056,EXP_CS_BC_28d,56,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,34.68,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,358,False
+CS_BC_28d_057,EXP_CS_BC_28d,57,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.51,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,359,False
+CS_BC_28d_058,EXP_CS_BC_28d,58,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.69,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,360,False
+CS_BC_28d_059,EXP_CS_BC_28d,59,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.85,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,361,False
+CS_BC_28d_060,EXP_CS_BC_28d,60,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.67,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,362,False
+CS_BC_28d_061,EXP_CS_BC_28d,61,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.96,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,363,False
+CS_BC_28d_062,EXP_CS_BC_28d,62,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,34.99,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,364,False
+CS_BC_28d_063,EXP_CS_BC_28d,63,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.29,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,365,False
+CS_BC_28d_064,EXP_CS_BC_28d,64,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,34.06,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,366,False
+CS_BC_28d_065,EXP_CS_BC_28d,65,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,32.87,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,367,False
+CS_BC_28d_066,EXP_CS_BC_28d,66,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,35.16,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,368,False
+CS_BC_28d_067,EXP_CS_BC_28d,67,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,31.99,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,369,False
+CS_BC_28d_068,EXP_CS_BC_28d,68,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,35.7,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,370,False
+CS_BC_28d_069,EXP_CS_BC_28d,69,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,32.94,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,371,False
+CS_BC_28d_070,EXP_CS_BC_28d,70,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,30.85,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,372,False
+CS_BC_28d_071,EXP_CS_BC_28d,71,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.19,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,373,False
+CS_BC_28d_072,EXP_CS_BC_28d,72,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,31.98,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,374,False
+CS_BC_28d_073,EXP_CS_BC_28d,73,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,34.26,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,375,False
+CS_BC_28d_074,EXP_CS_BC_28d,74,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,32.02,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,376,False
+CS_BC_28d_075,EXP_CS_BC_28d,75,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,32.33,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,377,False
+CS_BC_28d_076,EXP_CS_BC_28d,76,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,30.17,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,378,False
+CS_BC_28d_077,EXP_CS_BC_28d,77,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,32.32,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,379,False
+CS_BC_28d_078,EXP_CS_BC_28d,78,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,29.36,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,380,False
+CS_BC_28d_079,EXP_CS_BC_28d,79,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,30.62,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,381,False
+CS_BC_28d_080,EXP_CS_BC_28d,80,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,34.14,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,382,False
+CS_BC_28d_081,EXP_CS_BC_28d,81,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,34.18,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,383,False
+CS_BC_28d_082,EXP_CS_BC_28d,82,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.64,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,384,False
+CS_BC_28d_083,EXP_CS_BC_28d,83,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,31.55,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,385,False
+CS_BC_28d_084,EXP_CS_BC_28d,84,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,32.93,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,386,False
+CS_BC_28d_085,EXP_CS_BC_28d,85,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,32.99,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,387,False
+CS_BC_28d_086,EXP_CS_BC_28d,86,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,31.26,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,388,False
+CS_BC_28d_087,EXP_CS_BC_28d,87,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,35.26,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,389,False
+CS_BC_28d_088,EXP_CS_BC_28d,88,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,34.32,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,390,False
+CS_BC_28d_089,EXP_CS_BC_28d,89,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,32.67,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,391,False
+CS_BC_28d_090,EXP_CS_BC_28d,90,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.04,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,392,False
+CS_BC_28d_091,EXP_CS_BC_28d,91,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.31,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,393,False
+CS_BC_28d_092,EXP_CS_BC_28d,92,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,29.94,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,394,False
+CS_BC_28d_093,EXP_CS_BC_28d,93,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,32.63,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,395,False
+CS_BC_28d_094,EXP_CS_BC_28d,94,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,31.98,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,396,False
+CS_BC_28d_095,EXP_CS_BC_28d,95,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,31.5,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,397,False
+CS_BC_28d_096,EXP_CS_BC_28d,96,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,32.58,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,398,False
+CS_BC_28d_097,EXP_CS_BC_28d,97,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,35.7,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,399,False
+CS_BC_28d_098,EXP_CS_BC_28d,98,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.96,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,400,False
+CS_BC_28d_099,EXP_CS_BC_28d,99,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,32.14,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,401,False
+CS_BC_28d_100,EXP_CS_BC_28d,100,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),28,Compressive Strength,33.86,150mm Cube,C Strenth Reading 1000000.xlsx,Comp 6,402,False
+FS_NC_56d_001,EXP_FS_NC_56d,1,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.565,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,402,False
+FS_NC_56d_002,EXP_FS_NC_56d,2,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.229,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,403,False
+FS_NC_56d_003,EXP_FS_NC_56d,3,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.735,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,404,False
+FS_NC_56d_004,EXP_FS_NC_56d,4,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.719,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,405,False
+FS_NC_56d_005,EXP_FS_NC_56d,5,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.836,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,406,False
+FS_NC_56d_006,EXP_FS_NC_56d,6,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.996,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,407,False
+FS_NC_56d_007,EXP_FS_NC_56d,7,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.706,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,408,False
+FS_NC_56d_008,EXP_FS_NC_56d,8,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.325,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,409,False
+FS_NC_56d_009,EXP_FS_NC_56d,9,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,5.046,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,410,False
+FS_NC_56d_010,EXP_FS_NC_56d,10,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.393,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,411,False
+FS_NC_56d_011,EXP_FS_NC_56d,11,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.351,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,412,False
+FS_NC_56d_012,EXP_FS_NC_56d,12,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.069,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,413,False
+FS_NC_56d_013,EXP_FS_NC_56d,13,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.393,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,414,False
+FS_NC_56d_014,EXP_FS_NC_56d,14,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.348,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,415,False
+FS_NC_56d_015,EXP_FS_NC_56d,15,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.386,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,416,False
+FS_NC_56d_016,EXP_FS_NC_56d,16,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.535,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,417,False
+FS_NC_56d_017,EXP_FS_NC_56d,17,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.653,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,418,False
+FS_NC_56d_018,EXP_FS_NC_56d,18,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.347,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,419,False
+FS_NC_56d_019,EXP_FS_NC_56d,19,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.338,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,420,False
+FS_NC_56d_020,EXP_FS_NC_56d,20,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.324,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,421,False
+FS_NC_56d_021,EXP_FS_NC_56d,21,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.96,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,422,False
+FS_NC_56d_022,EXP_FS_NC_56d,22,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.759,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,423,False
+FS_NC_56d_023,EXP_FS_NC_56d,23,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.543,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,424,False
+FS_NC_56d_024,EXP_FS_NC_56d,24,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.621,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,425,False
+FS_NC_56d_025,EXP_FS_NC_56d,25,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.637,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,426,False
+FS_NC_56d_026,EXP_FS_NC_56d,26,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.515,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,427,False
+FS_NC_56d_027,EXP_FS_NC_56d,27,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.446,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,428,False
+FS_NC_56d_028,EXP_FS_NC_56d,28,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.546,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,429,False
+FS_NC_56d_029,EXP_FS_NC_56d,29,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.702,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,430,False
+FS_NC_56d_030,EXP_FS_NC_56d,30,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.434,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,431,False
+FS_NC_56d_031,EXP_FS_NC_56d,31,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.55,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,432,False
+FS_NC_56d_032,EXP_FS_NC_56d,32,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.79,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,433,False
+FS_NC_56d_033,EXP_FS_NC_56d,33,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.753,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,434,False
+FS_NC_56d_034,EXP_FS_NC_56d,34,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.513,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,435,False
+FS_NC_56d_035,EXP_FS_NC_56d,35,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.826,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,436,False
+FS_NC_56d_036,EXP_FS_NC_56d,36,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.372,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,437,False
+FS_NC_56d_037,EXP_FS_NC_56d,37,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.576,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,438,False
+FS_NC_56d_038,EXP_FS_NC_56d,38,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.493,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,439,False
+FS_NC_56d_039,EXP_FS_NC_56d,39,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.32,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,440,False
+FS_NC_56d_040,EXP_FS_NC_56d,40,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.899,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,441,False
+FS_NC_56d_041,EXP_FS_NC_56d,41,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.353,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,442,False
+FS_NC_56d_042,EXP_FS_NC_56d,42,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.336,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,443,False
+FS_NC_56d_043,EXP_FS_NC_56d,43,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.661,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,444,False
+FS_NC_56d_044,EXP_FS_NC_56d,44,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.716,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,445,False
+FS_NC_56d_045,EXP_FS_NC_56d,45,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.831,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,446,False
+FS_NC_56d_046,EXP_FS_NC_56d,46,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.535,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,447,False
+FS_NC_56d_047,EXP_FS_NC_56d,47,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.825,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,448,False
+FS_NC_56d_048,EXP_FS_NC_56d,48,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.997,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,449,False
+FS_NC_56d_049,EXP_FS_NC_56d,49,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.308,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,450,False
+FS_NC_56d_050,EXP_FS_NC_56d,50,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.852,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,451,False
+FS_NC_56d_051,EXP_FS_NC_56d,51,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.925,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,452,False
+FS_NC_56d_052,EXP_FS_NC_56d,52,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.686,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,453,False
+FS_NC_56d_053,EXP_FS_NC_56d,53,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.455,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,454,False
+FS_NC_56d_054,EXP_FS_NC_56d,54,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.471,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,455,False
+FS_NC_56d_055,EXP_FS_NC_56d,55,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.777,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,456,False
+FS_NC_56d_056,EXP_FS_NC_56d,56,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.471,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,457,False
+FS_NC_56d_057,EXP_FS_NC_56d,57,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.503,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,458,False
+FS_NC_56d_058,EXP_FS_NC_56d,58,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.47,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,459,False
+FS_NC_56d_059,EXP_FS_NC_56d,59,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.767,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,460,False
+FS_NC_56d_060,EXP_FS_NC_56d,60,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.712,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,461,False
+FS_NC_56d_061,EXP_FS_NC_56d,61,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.791,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,462,False
+FS_NC_56d_062,EXP_FS_NC_56d,62,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.79,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,463,False
+FS_NC_56d_063,EXP_FS_NC_56d,63,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.465,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,464,False
+FS_NC_56d_064,EXP_FS_NC_56d,64,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.42,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,465,False
+FS_NC_56d_065,EXP_FS_NC_56d,65,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.455,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,466,False
+FS_NC_56d_066,EXP_FS_NC_56d,66,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.675,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,467,False
+FS_NC_56d_067,EXP_FS_NC_56d,67,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.494,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,468,False
+FS_NC_56d_068,EXP_FS_NC_56d,68,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.432,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,469,False
+FS_NC_56d_069,EXP_FS_NC_56d,69,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.93,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,470,False
+FS_NC_56d_070,EXP_FS_NC_56d,70,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.618,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,471,False
+FS_NC_56d_071,EXP_FS_NC_56d,71,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.84,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,472,False
+FS_NC_56d_072,EXP_FS_NC_56d,72,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.566,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,473,False
+FS_NC_56d_073,EXP_FS_NC_56d,73,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.995,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,474,False
+FS_NC_56d_074,EXP_FS_NC_56d,74,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.308,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,475,False
+FS_NC_56d_075,EXP_FS_NC_56d,75,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.799,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,476,False
+FS_NC_56d_076,EXP_FS_NC_56d,76,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.197,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,477,False
+FS_NC_56d_077,EXP_FS_NC_56d,77,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.292,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,478,False
+FS_NC_56d_078,EXP_FS_NC_56d,78,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.891,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,479,False
+FS_NC_56d_079,EXP_FS_NC_56d,79,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.794,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,480,False
+FS_NC_56d_080,EXP_FS_NC_56d,80,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.448,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,481,False
+FS_NC_56d_081,EXP_FS_NC_56d,81,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.63,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,482,False
+FS_NC_56d_082,EXP_FS_NC_56d,82,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.593,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,483,False
+FS_NC_56d_083,EXP_FS_NC_56d,83,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.755,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,484,False
+FS_NC_56d_084,EXP_FS_NC_56d,84,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.716,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,485,False
+FS_NC_56d_085,EXP_FS_NC_56d,85,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.96,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,486,False
+FS_NC_56d_086,EXP_FS_NC_56d,86,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,5.208,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,487,False
+FS_NC_56d_087,EXP_FS_NC_56d,87,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.869,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,488,False
+FS_NC_56d_088,EXP_FS_NC_56d,88,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.917,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,489,False
+FS_NC_56d_089,EXP_FS_NC_56d,89,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,3.938,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,490,False
+FS_NC_56d_090,EXP_FS_NC_56d,90,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.591,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,491,False
+FS_NC_56d_091,EXP_FS_NC_56d,91,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.459,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,492,False
+FS_NC_56d_092,EXP_FS_NC_56d,92,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.32,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,493,False
+FS_NC_56d_093,EXP_FS_NC_56d,93,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.477,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,494,False
+FS_NC_56d_094,EXP_FS_NC_56d,94,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.307,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,495,False
+FS_NC_56d_095,EXP_FS_NC_56d,95,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.727,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,496,False
+FS_NC_56d_096,EXP_FS_NC_56d,96,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.74,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,497,False
+FS_NC_56d_097,EXP_FS_NC_56d,97,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.184,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,498,False
+FS_NC_56d_098,EXP_FS_NC_56d,98,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.919,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,499,False
+FS_NC_56d_099,EXP_FS_NC_56d,99,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.485,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,500,False
+FS_NC_56d_100,EXP_FS_NC_56d,100,Normal Concrete,Control,,0,OPC 53 (UltraTech),56,Flexural Strength,4.707,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,501,False
+FS_BC_07d_001,EXP_FS_BC_07d,1,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.323,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,602,False
+FS_BC_07d_002,EXP_FS_BC_07d,2,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.584,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,603,False
+FS_BC_07d_003,EXP_FS_BC_07d,3,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.361,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,604,False
+FS_BC_07d_004,EXP_FS_BC_07d,4,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.655,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,605,False
+FS_BC_07d_005,EXP_FS_BC_07d,5,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.905,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,606,False
+FS_BC_07d_006,EXP_FS_BC_07d,6,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.864,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,607,False
+FS_BC_07d_007,EXP_FS_BC_07d,7,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.289,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,608,False
+FS_BC_07d_008,EXP_FS_BC_07d,8,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.324,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,609,False
+FS_BC_07d_009,EXP_FS_BC_07d,9,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.252,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,610,False
+FS_BC_07d_010,EXP_FS_BC_07d,10,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.464,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,611,False
+FS_BC_07d_011,EXP_FS_BC_07d,11,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.506,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,612,False
+FS_BC_07d_012,EXP_FS_BC_07d,12,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.833,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,613,False
+FS_BC_07d_013,EXP_FS_BC_07d,13,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.705,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,614,False
+FS_BC_07d_014,EXP_FS_BC_07d,14,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.289,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,615,False
+FS_BC_07d_015,EXP_FS_BC_07d,15,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.489,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,616,False
+FS_BC_07d_016,EXP_FS_BC_07d,16,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.841,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,617,False
+FS_BC_07d_017,EXP_FS_BC_07d,17,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.242,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,618,False
+FS_BC_07d_018,EXP_FS_BC_07d,18,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.44,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,619,False
+FS_BC_07d_019,EXP_FS_BC_07d,19,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.452,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,620,False
+FS_BC_07d_020,EXP_FS_BC_07d,20,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.684,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,621,False
+FS_BC_07d_021,EXP_FS_BC_07d,21,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.963,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,622,False
+FS_BC_07d_022,EXP_FS_BC_07d,22,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.401,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,623,False
+FS_BC_07d_023,EXP_FS_BC_07d,23,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.422,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,624,False
+FS_BC_07d_024,EXP_FS_BC_07d,24,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.326,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,625,False
+FS_BC_07d_025,EXP_FS_BC_07d,25,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.583,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,626,False
+FS_BC_07d_026,EXP_FS_BC_07d,26,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.548,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,627,False
+FS_BC_07d_027,EXP_FS_BC_07d,27,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.29,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,628,False
+FS_BC_07d_028,EXP_FS_BC_07d,28,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.564,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,629,False
+FS_BC_07d_029,EXP_FS_BC_07d,29,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.487,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,630,False
+FS_BC_07d_030,EXP_FS_BC_07d,30,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.603,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,631,False
+FS_BC_07d_031,EXP_FS_BC_07d,31,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,4.164,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,632,False
+FS_BC_07d_032,EXP_FS_BC_07d,32,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.634,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,633,False
+FS_BC_07d_033,EXP_FS_BC_07d,33,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,2.687,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,634,False
+FS_BC_07d_034,EXP_FS_BC_07d,34,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.15,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,635,False
+FS_BC_07d_035,EXP_FS_BC_07d,35,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.894,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,636,False
+FS_BC_07d_036,EXP_FS_BC_07d,36,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.472,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,637,False
+FS_BC_07d_037,EXP_FS_BC_07d,37,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.119,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,638,False
+FS_BC_07d_038,EXP_FS_BC_07d,38,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.35,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,639,False
+FS_BC_07d_039,EXP_FS_BC_07d,39,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.618,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,640,False
+FS_BC_07d_040,EXP_FS_BC_07d,40,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.647,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,641,False
+FS_BC_07d_041,EXP_FS_BC_07d,41,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.441,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,642,False
+FS_BC_07d_042,EXP_FS_BC_07d,42,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.653,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,643,False
+FS_BC_07d_043,EXP_FS_BC_07d,43,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.41,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,644,False
+FS_BC_07d_044,EXP_FS_BC_07d,44,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.41,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,645,False
+FS_BC_07d_045,EXP_FS_BC_07d,45,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.613,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,646,False
+FS_BC_07d_046,EXP_FS_BC_07d,46,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.622,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,647,False
+FS_BC_07d_047,EXP_FS_BC_07d,47,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.507,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,648,False
+FS_BC_07d_048,EXP_FS_BC_07d,48,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.577,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,649,False
+FS_BC_07d_049,EXP_FS_BC_07d,49,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.137,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,650,False
+FS_BC_07d_050,EXP_FS_BC_07d,50,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.659,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,651,False
+FS_BC_07d_051,EXP_FS_BC_07d,51,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,4.0,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,652,False
+FS_BC_07d_052,EXP_FS_BC_07d,52,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.506,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,653,False
+FS_BC_07d_053,EXP_FS_BC_07d,53,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.916,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,654,False
+FS_BC_07d_054,EXP_FS_BC_07d,54,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.236,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,655,False
+FS_BC_07d_055,EXP_FS_BC_07d,55,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.772,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,656,False
+FS_BC_07d_056,EXP_FS_BC_07d,56,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.418,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,657,False
+FS_BC_07d_057,EXP_FS_BC_07d,57,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.738,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,658,False
+FS_BC_07d_058,EXP_FS_BC_07d,58,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.317,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,659,False
+FS_BC_07d_059,EXP_FS_BC_07d,59,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.474,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,660,False
+FS_BC_07d_060,EXP_FS_BC_07d,60,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.75,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,661,False
+FS_BC_07d_061,EXP_FS_BC_07d,61,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.78,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,662,False
+FS_BC_07d_062,EXP_FS_BC_07d,62,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.714,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,663,False
+FS_BC_07d_063,EXP_FS_BC_07d,63,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.444,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,664,False
+FS_BC_07d_064,EXP_FS_BC_07d,64,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.377,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,665,False
+FS_BC_07d_065,EXP_FS_BC_07d,65,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.555,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,666,False
+FS_BC_07d_066,EXP_FS_BC_07d,66,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.836,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,667,False
+FS_BC_07d_067,EXP_FS_BC_07d,67,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.605,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,668,False
+FS_BC_07d_068,EXP_FS_BC_07d,68,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.395,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,669,False
+FS_BC_07d_069,EXP_FS_BC_07d,69,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.563,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,670,False
+FS_BC_07d_070,EXP_FS_BC_07d,70,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.41,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,671,False
+FS_BC_07d_071,EXP_FS_BC_07d,71,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.412,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,672,False
+FS_BC_07d_072,EXP_FS_BC_07d,72,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.153,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,673,False
+FS_BC_07d_073,EXP_FS_BC_07d,73,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.431,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,674,False
+FS_BC_07d_074,EXP_FS_BC_07d,74,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.759,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,675,False
+FS_BC_07d_075,EXP_FS_BC_07d,75,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.734,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,676,False
+FS_BC_07d_076,EXP_FS_BC_07d,76,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.206,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,677,False
+FS_BC_07d_077,EXP_FS_BC_07d,77,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.574,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,678,False
+FS_BC_07d_078,EXP_FS_BC_07d,78,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.998,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,679,False
+FS_BC_07d_079,EXP_FS_BC_07d,79,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.897,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,680,False
+FS_BC_07d_080,EXP_FS_BC_07d,80,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.398,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,681,False
+FS_BC_07d_081,EXP_FS_BC_07d,81,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.546,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,682,False
+FS_BC_07d_082,EXP_FS_BC_07d,82,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.544,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,683,False
+FS_BC_07d_083,EXP_FS_BC_07d,83,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.784,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,684,False
+FS_BC_07d_084,EXP_FS_BC_07d,84,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.484,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,685,False
+FS_BC_07d_085,EXP_FS_BC_07d,85,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.346,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,686,False
+FS_BC_07d_086,EXP_FS_BC_07d,86,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.577,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,687,False
+FS_BC_07d_087,EXP_FS_BC_07d,87,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.604,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,688,False
+FS_BC_07d_088,EXP_FS_BC_07d,88,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.682,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,689,False
+FS_BC_07d_089,EXP_FS_BC_07d,89,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.029,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,690,False
+FS_BC_07d_090,EXP_FS_BC_07d,90,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.327,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,691,False
+FS_BC_07d_091,EXP_FS_BC_07d,91,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.218,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,692,False
+FS_BC_07d_092,EXP_FS_BC_07d,92,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.631,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,693,False
+FS_BC_07d_093,EXP_FS_BC_07d,93,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.233,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,694,False
+FS_BC_07d_094,EXP_FS_BC_07d,94,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.861,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,695,False
+FS_BC_07d_095,EXP_FS_BC_07d,95,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.481,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,696,False
+FS_BC_07d_096,EXP_FS_BC_07d,96,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.483,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,697,False
+FS_BC_07d_097,EXP_FS_BC_07d,97,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.514,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,698,False
+FS_BC_07d_098,EXP_FS_BC_07d,98,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.643,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,699,False
+FS_BC_07d_099,EXP_FS_BC_07d,99,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.599,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,700,False
+FS_BC_07d_100,EXP_FS_BC_07d,100,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),7,Flexural Strength,3.762,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet1,701,False
+FS_BC_90d_001,EXP_FS_BC_90d,1,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.73,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,5,True
+FS_BC_90d_002,EXP_FS_BC_90d,2,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.483,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,6,True
+FS_BC_90d_003,EXP_FS_BC_90d,3,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.079,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,7,True
+FS_BC_90d_004,EXP_FS_BC_90d,4,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.925,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,8,True
+FS_BC_90d_005,EXP_FS_BC_90d,5,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.053,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,9,True
+FS_BC_90d_006,EXP_FS_BC_90d,6,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.44,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,10,True
+FS_BC_90d_007,EXP_FS_BC_90d,7,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.546,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,11,True
+FS_BC_90d_008,EXP_FS_BC_90d,8,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.713,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,12,True
+FS_BC_90d_009,EXP_FS_BC_90d,9,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.187,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,13,True
+FS_BC_90d_010,EXP_FS_BC_90d,10,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.617,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,14,True
+FS_BC_90d_011,EXP_FS_BC_90d,11,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.449,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,15,True
+FS_BC_90d_012,EXP_FS_BC_90d,12,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.821,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,16,True
+FS_BC_90d_013,EXP_FS_BC_90d,13,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.822,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,17,True
+FS_BC_90d_014,EXP_FS_BC_90d,14,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.034,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,18,True
+FS_BC_90d_015,EXP_FS_BC_90d,15,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.116,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,19,True
+FS_BC_90d_016,EXP_FS_BC_90d,16,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.529,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,20,True
+FS_BC_90d_017,EXP_FS_BC_90d,17,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.884,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,21,True
+FS_BC_90d_018,EXP_FS_BC_90d,18,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.347,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,22,True
+FS_BC_90d_019,EXP_FS_BC_90d,19,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.819,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,23,True
+FS_BC_90d_020,EXP_FS_BC_90d,20,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.116,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,24,True
+FS_BC_90d_021,EXP_FS_BC_90d,21,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.21,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,25,True
+FS_BC_90d_022,EXP_FS_BC_90d,22,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.742,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,26,True
+FS_BC_90d_023,EXP_FS_BC_90d,23,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.22,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,27,True
+FS_BC_90d_024,EXP_FS_BC_90d,24,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.601,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,28,True
+FS_BC_90d_025,EXP_FS_BC_90d,25,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.124,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,29,True
+FS_BC_90d_026,EXP_FS_BC_90d,26,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.981,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,30,True
+FS_BC_90d_027,EXP_FS_BC_90d,27,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.73,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,31,True
+FS_BC_90d_028,EXP_FS_BC_90d,28,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.448,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,32,True
+FS_BC_90d_029,EXP_FS_BC_90d,29,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.177,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,33,True
+FS_BC_90d_030,EXP_FS_BC_90d,30,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.719,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,34,True
+FS_BC_90d_031,EXP_FS_BC_90d,31,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.557,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,35,True
+FS_BC_90d_032,EXP_FS_BC_90d,32,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.129,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,36,True
+FS_BC_90d_033,EXP_FS_BC_90d,33,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.156,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,37,True
+FS_BC_90d_034,EXP_FS_BC_90d,34,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.995,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,38,True
+FS_BC_90d_035,EXP_FS_BC_90d,35,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.29,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,39,True
+FS_BC_90d_036,EXP_FS_BC_90d,36,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.637,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,40,True
+FS_BC_90d_037,EXP_FS_BC_90d,37,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.445,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,41,True
+FS_BC_90d_038,EXP_FS_BC_90d,38,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.03,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,42,True
+FS_BC_90d_039,EXP_FS_BC_90d,39,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.973,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,43,True
+FS_BC_90d_040,EXP_FS_BC_90d,40,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.999,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,44,True
+FS_BC_90d_041,EXP_FS_BC_90d,41,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.754,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,45,True
+FS_BC_90d_042,EXP_FS_BC_90d,42,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.892,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,46,True
+FS_BC_90d_043,EXP_FS_BC_90d,43,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.669,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,47,True
+FS_BC_90d_044,EXP_FS_BC_90d,44,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.357,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,48,True
+FS_BC_90d_045,EXP_FS_BC_90d,45,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.909,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,49,True
+FS_BC_90d_046,EXP_FS_BC_90d,46,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.237,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,50,True
+FS_BC_90d_047,EXP_FS_BC_90d,47,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.012,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,51,True
+FS_BC_90d_048,EXP_FS_BC_90d,48,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.399,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,52,True
+FS_BC_90d_049,EXP_FS_BC_90d,49,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.49,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,53,True
+FS_BC_90d_050,EXP_FS_BC_90d,50,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.133,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,54,True
+FS_BC_90d_051,EXP_FS_BC_90d,51,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.964,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,55,True
+FS_BC_90d_052,EXP_FS_BC_90d,52,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.289,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,56,True
+FS_BC_90d_053,EXP_FS_BC_90d,53,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.978,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,57,True
+FS_BC_90d_054,EXP_FS_BC_90d,54,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.465,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,58,True
+FS_BC_90d_055,EXP_FS_BC_90d,55,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.679,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,59,True
+FS_BC_90d_056,EXP_FS_BC_90d,56,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.897,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,60,True
+FS_BC_90d_057,EXP_FS_BC_90d,57,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.474,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,61,True
+FS_BC_90d_058,EXP_FS_BC_90d,58,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.365,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,62,True
+FS_BC_90d_059,EXP_FS_BC_90d,59,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.018,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,63,True
+FS_BC_90d_060,EXP_FS_BC_90d,60,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.191,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,64,True
+FS_BC_90d_061,EXP_FS_BC_90d,61,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.775,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,65,True
+FS_BC_90d_062,EXP_FS_BC_90d,62,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.742,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,66,True
+FS_BC_90d_063,EXP_FS_BC_90d,63,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.179,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,67,True
+FS_BC_90d_064,EXP_FS_BC_90d,64,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.812,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,68,True
+FS_BC_90d_065,EXP_FS_BC_90d,65,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.928,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,69,True
+FS_BC_90d_066,EXP_FS_BC_90d,66,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.061,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,70,True
+FS_BC_90d_067,EXP_FS_BC_90d,67,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.718,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,71,True
+FS_BC_90d_068,EXP_FS_BC_90d,68,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.313,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,72,True
+FS_BC_90d_069,EXP_FS_BC_90d,69,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.283,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,73,True
+FS_BC_90d_070,EXP_FS_BC_90d,70,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.187,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,74,True
+FS_BC_90d_071,EXP_FS_BC_90d,71,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.622,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,75,True
+FS_BC_90d_072,EXP_FS_BC_90d,72,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.194,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,76,True
+FS_BC_90d_073,EXP_FS_BC_90d,73,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.006,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,77,True
+FS_BC_90d_074,EXP_FS_BC_90d,74,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.365,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,78,True
+FS_BC_90d_075,EXP_FS_BC_90d,75,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.87,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,79,True
+FS_BC_90d_076,EXP_FS_BC_90d,76,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.11,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,80,True
+FS_BC_90d_077,EXP_FS_BC_90d,77,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.45,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,81,True
+FS_BC_90d_078,EXP_FS_BC_90d,78,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.925,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,82,True
+FS_BC_90d_079,EXP_FS_BC_90d,79,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.321,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,83,True
+FS_BC_90d_080,EXP_FS_BC_90d,80,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.274,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,84,True
+FS_BC_90d_081,EXP_FS_BC_90d,81,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.487,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,85,True
+FS_BC_90d_082,EXP_FS_BC_90d,82,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.634,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,86,True
+FS_BC_90d_083,EXP_FS_BC_90d,83,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.224,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,87,True
+FS_BC_90d_084,EXP_FS_BC_90d,84,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.714,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,88,True
+FS_BC_90d_085,EXP_FS_BC_90d,85,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.081,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,89,True
+FS_BC_90d_086,EXP_FS_BC_90d,86,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.259,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,90,True
+FS_BC_90d_087,EXP_FS_BC_90d,87,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.178,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,91,True
+FS_BC_90d_088,EXP_FS_BC_90d,88,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.798,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,92,True
+FS_BC_90d_089,EXP_FS_BC_90d,89,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.754,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,93,True
+FS_BC_90d_090,EXP_FS_BC_90d,90,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.437,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,94,True
+FS_BC_90d_091,EXP_FS_BC_90d,91,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.239,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,95,True
+FS_BC_90d_092,EXP_FS_BC_90d,92,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.137,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,96,True
+FS_BC_90d_093,EXP_FS_BC_90d,93,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.518,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,97,True
+FS_BC_90d_094,EXP_FS_BC_90d,94,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.125,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,98,True
+FS_BC_90d_095,EXP_FS_BC_90d,95,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.914,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,99,True
+FS_BC_90d_096,EXP_FS_BC_90d,96,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.691,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,100,True
+FS_BC_90d_097,EXP_FS_BC_90d,97,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,6.374,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,101,True
+FS_BC_90d_098,EXP_FS_BC_90d,98,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.971,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,102,True
+FS_BC_90d_099,EXP_FS_BC_90d,99,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.77,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,103,True
+FS_BC_90d_100,EXP_FS_BC_90d,100,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Flexural Strength,5.842,100x100x500mm Prism,F Strength Reading 1000000.xlsx,Sheet2,104,True
+TS_NC_21d_001,EXP_TS_NC_21d,1,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.505,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,202,False
+TS_NC_21d_002,EXP_TS_NC_21d,2,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.31,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,203,False
+TS_NC_21d_003,EXP_TS_NC_21d,3,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.73,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,204,False
+TS_NC_21d_004,EXP_TS_NC_21d,4,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.503,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,205,False
+TS_NC_21d_005,EXP_TS_NC_21d,5,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.399,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,206,False
+TS_NC_21d_006,EXP_TS_NC_21d,6,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.369,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,207,False
+TS_NC_21d_007,EXP_TS_NC_21d,7,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.387,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,208,False
+TS_NC_21d_008,EXP_TS_NC_21d,8,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.263,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,209,False
+TS_NC_21d_009,EXP_TS_NC_21d,9,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.386,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,210,False
+TS_NC_21d_010,EXP_TS_NC_21d,10,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.442,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,211,False
+TS_NC_21d_011,EXP_TS_NC_21d,11,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.487,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,212,False
+TS_NC_21d_012,EXP_TS_NC_21d,12,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.487,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,213,False
+TS_NC_21d_013,EXP_TS_NC_21d,13,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.359,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,214,False
+TS_NC_21d_014,EXP_TS_NC_21d,14,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.188,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,215,False
+TS_NC_21d_015,EXP_TS_NC_21d,15,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.3,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,216,False
+TS_NC_21d_016,EXP_TS_NC_21d,16,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.642,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,217,False
+TS_NC_21d_017,EXP_TS_NC_21d,17,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.534,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,218,False
+TS_NC_21d_018,EXP_TS_NC_21d,18,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.455,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,219,False
+TS_NC_21d_019,EXP_TS_NC_21d,19,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.286,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,220,False
+TS_NC_21d_020,EXP_TS_NC_21d,20,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.401,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,221,False
+TS_NC_21d_021,EXP_TS_NC_21d,21,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.212,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,222,False
+TS_NC_21d_022,EXP_TS_NC_21d,22,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.317,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,223,False
+TS_NC_21d_023,EXP_TS_NC_21d,23,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.363,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,224,False
+TS_NC_21d_024,EXP_TS_NC_21d,24,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.346,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,225,False
+TS_NC_21d_025,EXP_TS_NC_21d,25,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.543,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,226,False
+TS_NC_21d_026,EXP_TS_NC_21d,26,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.187,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,227,False
+TS_NC_21d_027,EXP_TS_NC_21d,27,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.27,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,228,False
+TS_NC_21d_028,EXP_TS_NC_21d,28,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.194,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,229,False
+TS_NC_21d_029,EXP_TS_NC_21d,29,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.214,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,230,False
+TS_NC_21d_030,EXP_TS_NC_21d,30,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.419,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,231,False
+TS_NC_21d_031,EXP_TS_NC_21d,31,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.16,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,232,False
+TS_NC_21d_032,EXP_TS_NC_21d,32,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.513,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,233,False
+TS_NC_21d_033,EXP_TS_NC_21d,33,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.363,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,234,False
+TS_NC_21d_034,EXP_TS_NC_21d,34,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.41,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,235,False
+TS_NC_21d_035,EXP_TS_NC_21d,35,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.448,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,236,False
+TS_NC_21d_036,EXP_TS_NC_21d,36,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.335,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,237,False
+TS_NC_21d_037,EXP_TS_NC_21d,37,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.555,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,238,False
+TS_NC_21d_038,EXP_TS_NC_21d,38,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.371,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,239,False
+TS_NC_21d_039,EXP_TS_NC_21d,39,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.489,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,240,False
+TS_NC_21d_040,EXP_TS_NC_21d,40,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.37,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,241,False
+TS_NC_21d_041,EXP_TS_NC_21d,41,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.444,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,242,False
+TS_NC_21d_042,EXP_TS_NC_21d,42,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.442,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,243,False
+TS_NC_21d_043,EXP_TS_NC_21d,43,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.437,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,244,False
+TS_NC_21d_044,EXP_TS_NC_21d,44,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.254,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,245,False
+TS_NC_21d_045,EXP_TS_NC_21d,45,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.465,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,246,False
+TS_NC_21d_046,EXP_TS_NC_21d,46,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.352,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,247,False
+TS_NC_21d_047,EXP_TS_NC_21d,47,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.495,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,248,False
+TS_NC_21d_048,EXP_TS_NC_21d,48,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.077,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,249,False
+TS_NC_21d_049,EXP_TS_NC_21d,49,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.18,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,250,False
+TS_NC_21d_050,EXP_TS_NC_21d,50,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.455,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,251,False
+TS_NC_21d_051,EXP_TS_NC_21d,51,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.679,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,252,False
+TS_NC_21d_052,EXP_TS_NC_21d,52,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.525,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,253,False
+TS_NC_21d_053,EXP_TS_NC_21d,53,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.298,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,254,False
+TS_NC_21d_054,EXP_TS_NC_21d,54,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.146,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,255,False
+TS_NC_21d_055,EXP_TS_NC_21d,55,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.511,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,256,False
+TS_NC_21d_056,EXP_TS_NC_21d,56,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.388,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,257,False
+TS_NC_21d_057,EXP_TS_NC_21d,57,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.489,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,258,False
+TS_NC_21d_058,EXP_TS_NC_21d,58,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.417,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,259,False
+TS_NC_21d_059,EXP_TS_NC_21d,59,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.404,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,260,False
+TS_NC_21d_060,EXP_TS_NC_21d,60,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.844,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,261,False
+TS_NC_21d_061,EXP_TS_NC_21d,61,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.399,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,262,False
+TS_NC_21d_062,EXP_TS_NC_21d,62,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.376,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,263,False
+TS_NC_21d_063,EXP_TS_NC_21d,63,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.382,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,264,False
+TS_NC_21d_064,EXP_TS_NC_21d,64,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.312,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,265,False
+TS_NC_21d_065,EXP_TS_NC_21d,65,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.549,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,266,False
+TS_NC_21d_066,EXP_TS_NC_21d,66,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.347,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,267,False
+TS_NC_21d_067,EXP_TS_NC_21d,67,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.495,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,268,False
+TS_NC_21d_068,EXP_TS_NC_21d,68,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.443,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,269,False
+TS_NC_21d_069,EXP_TS_NC_21d,69,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.583,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,270,False
+TS_NC_21d_070,EXP_TS_NC_21d,70,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.463,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,271,False
+TS_NC_21d_071,EXP_TS_NC_21d,71,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.218,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,272,False
+TS_NC_21d_072,EXP_TS_NC_21d,72,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.201,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,273,False
+TS_NC_21d_073,EXP_TS_NC_21d,73,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.611,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,274,False
+TS_NC_21d_074,EXP_TS_NC_21d,74,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.309,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,275,False
+TS_NC_21d_075,EXP_TS_NC_21d,75,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.202,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,276,False
+TS_NC_21d_076,EXP_TS_NC_21d,76,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.3,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,277,False
+TS_NC_21d_077,EXP_TS_NC_21d,77,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.59,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,278,False
+TS_NC_21d_078,EXP_TS_NC_21d,78,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.187,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,279,False
+TS_NC_21d_079,EXP_TS_NC_21d,79,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.27,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,280,False
+TS_NC_21d_080,EXP_TS_NC_21d,80,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.3,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,281,False
+TS_NC_21d_081,EXP_TS_NC_21d,81,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.212,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,282,False
+TS_NC_21d_082,EXP_TS_NC_21d,82,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.222,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,283,False
+TS_NC_21d_083,EXP_TS_NC_21d,83,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.172,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,284,False
+TS_NC_21d_084,EXP_TS_NC_21d,84,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.331,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,285,False
+TS_NC_21d_085,EXP_TS_NC_21d,85,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.347,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,286,False
+TS_NC_21d_086,EXP_TS_NC_21d,86,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.298,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,287,False
+TS_NC_21d_087,EXP_TS_NC_21d,87,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.152,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,288,False
+TS_NC_21d_088,EXP_TS_NC_21d,88,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.588,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,289,False
+TS_NC_21d_089,EXP_TS_NC_21d,89,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.201,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,290,False
+TS_NC_21d_090,EXP_TS_NC_21d,90,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.442,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,291,False
+TS_NC_21d_091,EXP_TS_NC_21d,91,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.239,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,292,False
+TS_NC_21d_092,EXP_TS_NC_21d,92,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.5,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,293,False
+TS_NC_21d_093,EXP_TS_NC_21d,93,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.543,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,294,False
+TS_NC_21d_094,EXP_TS_NC_21d,94,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.268,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,295,False
+TS_NC_21d_095,EXP_TS_NC_21d,95,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.111,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,296,False
+TS_NC_21d_096,EXP_TS_NC_21d,96,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.504,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,297,False
+TS_NC_21d_097,EXP_TS_NC_21d,97,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.681,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,298,False
+TS_NC_21d_098,EXP_TS_NC_21d,98,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.462,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,299,False
+TS_NC_21d_099,EXP_TS_NC_21d,99,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.424,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,300,False
+TS_NC_21d_100,EXP_TS_NC_21d,100,Normal Concrete,Control,,0,OPC 53 (UltraTech),21,Split Tensile Strength,2.523,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,301,False
+TS_BC_90d_001,EXP_TS_BC_90d,1,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.703,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1102,False
+TS_BC_90d_002,EXP_TS_BC_90d,2,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,4.036,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1103,False
+TS_BC_90d_003,EXP_TS_BC_90d,3,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.913,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1104,False
+TS_BC_90d_004,EXP_TS_BC_90d,4,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.843,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1105,False
+TS_BC_90d_005,EXP_TS_BC_90d,5,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.831,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1106,False
+TS_BC_90d_006,EXP_TS_BC_90d,6,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.817,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1107,False
+TS_BC_90d_007,EXP_TS_BC_90d,7,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.868,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1108,False
+TS_BC_90d_008,EXP_TS_BC_90d,8,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.708,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1109,False
+TS_BC_90d_009,EXP_TS_BC_90d,9,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,4.029,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1110,False
+TS_BC_90d_010,EXP_TS_BC_90d,10,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.823,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1111,False
+TS_BC_90d_011,EXP_TS_BC_90d,11,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.89,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1112,False
+TS_BC_90d_012,EXP_TS_BC_90d,12,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.735,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1113,False
+TS_BC_90d_013,EXP_TS_BC_90d,13,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.856,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1114,False
+TS_BC_90d_014,EXP_TS_BC_90d,14,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.458,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1115,False
+TS_BC_90d_015,EXP_TS_BC_90d,15,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.632,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1116,False
+TS_BC_90d_016,EXP_TS_BC_90d,16,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.795,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1117,False
+TS_BC_90d_017,EXP_TS_BC_90d,17,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.602,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1118,False
+TS_BC_90d_018,EXP_TS_BC_90d,18,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,4.166,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1119,False
+TS_BC_90d_019,EXP_TS_BC_90d,19,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.55,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1120,False
+TS_BC_90d_020,EXP_TS_BC_90d,20,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.852,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1121,False
+TS_BC_90d_021,EXP_TS_BC_90d,21,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,4.048,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1122,False
+TS_BC_90d_022,EXP_TS_BC_90d,22,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.872,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1123,False
+TS_BC_90d_023,EXP_TS_BC_90d,23,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.753,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1124,False
+TS_BC_90d_024,EXP_TS_BC_90d,24,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.717,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1125,False
+TS_BC_90d_025,EXP_TS_BC_90d,25,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.901,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1126,False
+TS_BC_90d_026,EXP_TS_BC_90d,26,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.68,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1127,False
+TS_BC_90d_027,EXP_TS_BC_90d,27,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.782,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1128,False
+TS_BC_90d_028,EXP_TS_BC_90d,28,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.904,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1129,False
+TS_BC_90d_029,EXP_TS_BC_90d,29,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.754,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1130,False
+TS_BC_90d_030,EXP_TS_BC_90d,30,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.813,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1131,False
+TS_BC_90d_031,EXP_TS_BC_90d,31,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.754,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1132,False
+TS_BC_90d_032,EXP_TS_BC_90d,32,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.655,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1133,False
+TS_BC_90d_033,EXP_TS_BC_90d,33,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.978,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1134,False
+TS_BC_90d_034,EXP_TS_BC_90d,34,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,4.009,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1135,False
+TS_BC_90d_035,EXP_TS_BC_90d,35,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.752,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1136,False
+TS_BC_90d_036,EXP_TS_BC_90d,36,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.76,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1137,False
+TS_BC_90d_037,EXP_TS_BC_90d,37,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.773,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1138,False
+TS_BC_90d_038,EXP_TS_BC_90d,38,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.881,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1139,False
+TS_BC_90d_039,EXP_TS_BC_90d,39,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.664,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1140,False
+TS_BC_90d_040,EXP_TS_BC_90d,40,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.787,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1141,False
+TS_BC_90d_041,EXP_TS_BC_90d,41,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.839,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1142,False
+TS_BC_90d_042,EXP_TS_BC_90d,42,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.896,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1143,False
+TS_BC_90d_043,EXP_TS_BC_90d,43,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.383,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1144,False
+TS_BC_90d_044,EXP_TS_BC_90d,44,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.861,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1145,False
+TS_BC_90d_045,EXP_TS_BC_90d,45,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.852,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1146,False
+TS_BC_90d_046,EXP_TS_BC_90d,46,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.951,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1147,False
+TS_BC_90d_047,EXP_TS_BC_90d,47,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.721,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1148,False
+TS_BC_90d_048,EXP_TS_BC_90d,48,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.722,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1149,False
+TS_BC_90d_049,EXP_TS_BC_90d,49,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.98,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1150,False
+TS_BC_90d_050,EXP_TS_BC_90d,50,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.566,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1151,False
+TS_BC_90d_051,EXP_TS_BC_90d,51,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,4.044,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1152,False
+TS_BC_90d_052,EXP_TS_BC_90d,52,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,4.183,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1153,False
+TS_BC_90d_053,EXP_TS_BC_90d,53,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.872,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1154,False
+TS_BC_90d_054,EXP_TS_BC_90d,54,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.922,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1155,False
+TS_BC_90d_055,EXP_TS_BC_90d,55,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.577,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1156,False
+TS_BC_90d_056,EXP_TS_BC_90d,56,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.696,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1157,False
+TS_BC_90d_057,EXP_TS_BC_90d,57,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.959,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1158,False
+TS_BC_90d_058,EXP_TS_BC_90d,58,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.854,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1159,False
+TS_BC_90d_059,EXP_TS_BC_90d,59,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.773,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1160,False
+TS_BC_90d_060,EXP_TS_BC_90d,60,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.835,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1161,False
+TS_BC_90d_061,EXP_TS_BC_90d,61,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.876,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1162,False
+TS_BC_90d_062,EXP_TS_BC_90d,62,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.756,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1163,False
+TS_BC_90d_063,EXP_TS_BC_90d,63,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.796,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1164,False
+TS_BC_90d_064,EXP_TS_BC_90d,64,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.795,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1165,False
+TS_BC_90d_065,EXP_TS_BC_90d,65,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.642,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1166,False
+TS_BC_90d_066,EXP_TS_BC_90d,66,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.849,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1167,False
+TS_BC_90d_067,EXP_TS_BC_90d,67,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,4.071,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1168,False
+TS_BC_90d_068,EXP_TS_BC_90d,68,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,4.06,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1169,False
+TS_BC_90d_069,EXP_TS_BC_90d,69,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.579,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1170,False
+TS_BC_90d_070,EXP_TS_BC_90d,70,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.886,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1171,False
+TS_BC_90d_071,EXP_TS_BC_90d,71,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.901,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1172,False
+TS_BC_90d_072,EXP_TS_BC_90d,72,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.738,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1173,False
+TS_BC_90d_073,EXP_TS_BC_90d,73,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.655,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1174,False
+TS_BC_90d_074,EXP_TS_BC_90d,74,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.602,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1175,False
+TS_BC_90d_075,EXP_TS_BC_90d,75,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.733,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1176,False
+TS_BC_90d_076,EXP_TS_BC_90d,76,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.853,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1177,False
+TS_BC_90d_077,EXP_TS_BC_90d,77,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.776,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1178,False
+TS_BC_90d_078,EXP_TS_BC_90d,78,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.708,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1179,False
+TS_BC_90d_079,EXP_TS_BC_90d,79,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.613,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1180,False
+TS_BC_90d_080,EXP_TS_BC_90d,80,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.853,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1181,False
+TS_BC_90d_081,EXP_TS_BC_90d,81,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.96,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1182,False
+TS_BC_90d_082,EXP_TS_BC_90d,82,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.661,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1183,False
+TS_BC_90d_083,EXP_TS_BC_90d,83,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.867,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1184,False
+TS_BC_90d_084,EXP_TS_BC_90d,84,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.518,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1185,False
+TS_BC_90d_085,EXP_TS_BC_90d,85,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.701,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1186,False
+TS_BC_90d_086,EXP_TS_BC_90d,86,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.909,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1187,False
+TS_BC_90d_087,EXP_TS_BC_90d,87,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.632,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1188,False
+TS_BC_90d_088,EXP_TS_BC_90d,88,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.709,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1189,False
+TS_BC_90d_089,EXP_TS_BC_90d,89,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,4.013,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1190,False
+TS_BC_90d_090,EXP_TS_BC_90d,90,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.69,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1191,False
+TS_BC_90d_091,EXP_TS_BC_90d,91,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.672,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1192,False
+TS_BC_90d_092,EXP_TS_BC_90d,92,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.886,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1193,False
+TS_BC_90d_093,EXP_TS_BC_90d,93,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,4.093,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1194,False
+TS_BC_90d_094,EXP_TS_BC_90d,94,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.764,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1195,False
+TS_BC_90d_095,EXP_TS_BC_90d,95,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.915,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1196,False
+TS_BC_90d_096,EXP_TS_BC_90d,96,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,4.002,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1197,False
+TS_BC_90d_097,EXP_TS_BC_90d,97,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.849,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1198,False
+TS_BC_90d_098,EXP_TS_BC_90d,98,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.76,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1199,False
+TS_BC_90d_099,EXP_TS_BC_90d,99,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.669,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1200,False
+TS_BC_90d_100,EXP_TS_BC_90d,100,Bacterial Concrete,Inoculated,Bacillus subtilis,1000000,OPC 53 (UltraTech),90,Split Tensile Strength,3.586,150x300mm Cylinder,T Strenth Reading 1000000.xlsx,Sheet1,1201,False
