@@ -1,0 +1,180 @@
+dataset_file,sheet_name,column_index,column_name,data_type,total_count,non_null_count,missing_count,missing_percentage,unique_count,is_constant,min_value,max_value,mean_value,median_value,std_value,is_target,target_type,measurement_nature
+C Strenth Reading 1000000.xlsx,Comp 6,1,Concrete Type,str,600,600,0,0.0,1,True,,,,,,False,N/A,Constant Feature
+C Strenth Reading 1000000.xlsx,Comp 6,2,Curing Age (Days),int64,600,600,0,0.0,6,False,7.0,90.0,36.0,24.5,28.6886,False,N/A,Input Feature (Curing Age)
+C Strenth Reading 1000000.xlsx,Comp 6,3,Cement,str,600,600,0,0.0,1,True,,,,,,False,N/A,Constant Feature
+C Strenth Reading 1000000.xlsx,Comp 6,4,Bacteria,str,600,600,0,0.0,1,True,,,,,,False,N/A,Constant Feature
+C Strenth Reading 1000000.xlsx,Comp 6,5,Bacterial Concentration (cells/mL),int64,600,600,0,0.0,1,True,1000000.0,1000000.0,1000000.0,1000000.0,0.0,False,N/A,Constant Feature
+C Strenth Reading 1000000.xlsx,Comp 6,6,Compressive Strength - Normal Concrete (MPa),float64,600,600,0,0.0,520,False,15.57,36.41,26.7298,26.87,4.755,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Comp 6,7,Compressive Strength - Bacterial Concrete (MPa),float64,600,600,0,0.0,525,False,17.95,44.16,31.552,31.465,6.4616,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Sheet2,1,Sample No,object,111,107,4,3.6,101,False,1.0,100.0,49.6792,49.5,29.1866,False,N/A,Identifier / Index
+C Strenth Reading 1000000.xlsx,Sheet2,2,7 N,object,111,109,2,1.8,98,False,15.57,1934.44,37.4871,19.42,184.2559,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Sheet2,3,7 BC,object,111,109,2,1.8,100,False,17.95,2203.59,42.7641,22.0359,209.8911,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Sheet2,4,14 N,float64,111,102,9,8.11,94,False,20.62,2353.35,46.3748,23.625,230.6906,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Sheet2,5,14 BC,float64,111,102,9,8.11,90,False,23.38,2649.05,52.2019,26.605,259.6761,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Sheet2,6,21 N,float64,111,102,9,8.11,94,False,20.64,2559.71,50.4413,25.645,250.9197,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Sheet2,7,21 BC,float64,111,102,9,8.11,91,False,27.23,2984.26,58.8075,29.77,292.5342,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Sheet2,8,28 N,float64,111,102,9,8.11,93,False,24.81,2816.07,55.4931,28.13,276.0473,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Sheet2,9,28 BC,float64,111,102,9,8.11,91,False,29.36,3304.19,65.112,33.13,323.8951,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Sheet2,10,56 N,float64,111,102,9,8.11,98,False,27.55,3091.64,60.9235,30.9132,303.0609,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Sheet2,11,56 BC,float64,111,102,9,8.11,91,False,32.73,3724.06,73.3859,37.3,365.0522,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Sheet2,12,90 N,float64,111,102,9,8.11,91,False,29.29,3282.67,64.6879,32.8633,321.7854,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Sheet2,13,90 BC,float64,111,102,9,8.11,94,False,36.16,4066.08,80.1257,40.785,398.5793,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Final Result,1,0,object,70,7,63,90.0,7,False,3.0,9.0,6.0,6.0,2.3664,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Final Result,2,1,object,70,49,21,30.0,7,False,7.0,90.0,36.0,24.5,29.0122,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Final Result,3,2,object,70,51,19,27.14,34,False,15.056,39.425,28.0958,27.4875,6.1767,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Final Result,4,3,object,70,49,21,30.0,45,False,17.158,54.92,34.1503,32.8727,9.8281,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Final Result,5,4,float64,70,0,70,100.0,0,False,,,,,,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Final Result,6,5,object,70,49,21,30.0,7,False,7.0,90.0,36.0,24.5,29.0122,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Final Result,7,6,object,70,51,19,27.14,34,False,2.212,6.39,4.4285,4.392,1.1797,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Final Result,8,7,object,70,49,21,30.0,44,False,2.5,8.2395,5.239,5.1972,1.5217,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Final Result,9,8,float64,70,0,70,100.0,0,False,,,,,,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Final Result,10,9,object,70,49,21,30.0,7,False,7.0,90.0,36.0,24.5,29.0122,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Final Result,11,10,object,70,51,19,27.14,30,False,1.804,4.719,2.9061,2.9506,0.6497,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Final Result,12,11,object,70,49,21,30.0,44,False,2.1052,5.422,3.5843,3.5233,0.8026,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Final Result,13,12,float64,70,0,70,100.0,0,False,,,,,,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Final Result,14,13,object,70,20,50,71.43,13,False,2.8451,90.0,25.2635,14.0,28.7104,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Final Result,15,14,object,70,20,50,71.43,19,False,3.0,5.865,4.3544,4.3388,0.869,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Final Result,16,15,object,70,14,56,80.0,13,False,3.4366,6.3538,4.7386,4.6142,1.1123,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Final Result,17,16,float64,70,6,64,91.43,6,False,0.5451,1.1038,0.9029,0.9636,0.232,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Final Result,18,17,float64,70,6,64,91.43,6,False,0.8177,1.6557,1.3543,1.4453,0.348,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Final Result,19,18,float64,70,12,58,82.86,12,False,3.2641,5.865,4.4707,4.5695,0.8831,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Final Result,20,19,float64,70,12,58,82.86,12,False,0.45,5.1,2.3498,1.8825,1.8923,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Final Result,21,20,float64,70,6,64,91.43,6,False,-0.2326,0.4616,0.1551,0.2154,0.2421,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Final Result,22,21,float64,70,12,58,82.86,12,False,3.4366,6.3538,4.7386,4.6142,1.1123,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,105 c,1,0,object,71,7,64,90.14,7,False,3.0,9.0,6.0,6.0,2.3664,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,105 c,2,1,object,71,51,20,28.17,8,False,7.0,90.0,36.0,24.5,29.0122,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,105 c,3,2,object,71,51,20,28.17,46,False,15.056,31.9948,24.4722,24.9128,4.5319,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,105 c,4,3,object,71,49,22,30.99,46,False,17.158,36.6611,27.6224,27.8658,5.4261,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,105 c,5,4,float64,71,0,71,100.0,0,False,,,,,,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,105 c,6,5,float64,71,50,21,29.58,49,False,0.5432,23.1477,6.011,4.1349,6.1818,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,105 c,7,6,float64,71,0,71,100.0,0,False,,,,,,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,105 c,8,7,float64,71,0,71,100.0,0,False,,,,,,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,105 c,9,8,float64,71,1,70,98.59,1,True,4.6663,4.6663,4.6663,4.6663,,False,N/A,Constant Feature
+C Strenth Reading 1000000.xlsx,105 c,10,9,object,71,51,20,28.17,8,False,7.0,90.0,36.0,24.5,29.0122,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,105 c,11,10,object,71,51,20,28.17,40,False,1.2,4.6201,2.9095,2.805,0.9095,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,105 c,12,11,object,71,49,22,30.99,38,False,1.128,5.6033,3.3569,3.2279,1.1737,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,105 c,13,12,float64,71,0,71,100.0,0,False,,,,,,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,105 c,14,13,float64,71,49,22,30.99,42,False,-0.082,4.12,0.7669,0.4623,0.9434,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,105 c,15,14,float64,71,0,71,100.0,0,False,,,,,,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,105 c,16,15,float64,71,0,71,100.0,0,False,,,,,,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,105 c,17,16,object,71,51,20,28.17,8,False,7.0,90.0,36.0,24.5,29.0122,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,105 c,18,17,object,71,51,20,28.17,46,False,1.2,5.865,3.6965,3.7012,1.0731,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,105 c,19,18,object,71,49,22,30.99,45,False,1.2666,6.3538,3.9707,3.8102,1.3326,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,105 c,20,19,float64,71,0,71,100.0,0,False,,,,,,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,105 c,21,20,float64,71,49,22,30.99,38,False,-0.7396,2.9197,0.47,0.4366,0.7163,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,c,1,Days,int64,6,6,0,0.0,6,False,7.0,90.0,36.0,24.5,31.4006,False,N/A,Input Feature (Curing Age)
+C Strenth Reading 1000000.xlsx,c,2,NC,float64,6,6,0,0.0,6,False,15.056,28.596,22.9087,23.6155,5.216,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,c,3,BC3,float64,6,6,0,0.0,6,False,17.158,29.385,23.9208,24.2426,4.5465,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,c,4,NC.1,float64,6,6,0,0.0,6,False,18.4589,30.8464,25.47,25.9583,4.5192,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,c,5,BC4,float64,6,6,0,0.0,6,False,19.9781,34.9099,28.1392,28.5756,5.5667,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,c,6,NC.2,float64,6,6,0,0.0,6,False,18.9,31.9948,26.0814,26.2367,4.7066,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,c,7,BC5,float64,6,6,0,0.0,6,False,20.9974,36.6611,29.5693,30.0528,5.7501,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,c,8,NC.3,float64,6,6,0,0.0,6,False,17.98,31.0748,25.1614,25.3167,4.7066,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,c,9,BC6,float64,6,6,0,0.0,6,False,20.3474,36.0111,28.9193,29.4029,5.7501,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,c,10,NC.4,float64,6,6,0,0.0,6,False,17.38,30.4748,24.5614,24.7167,4.7066,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,c,11,BC7,float64,6,6,0,0.0,6,False,19.6474,35.3111,28.2193,28.7029,5.7501,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,c,12,NC.5,float64,6,6,0,0.0,6,False,16.68,29.7748,23.8614,24.0167,4.7066,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,c,13,BC8,float64,6,6,0,0.0,6,False,19.1474,34.8111,27.7193,28.2029,5.7501,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,c,14,NC.6,float64,6,6,0,0.0,6,False,16.08,29.1748,23.2614,23.4167,4.7066,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,c,15,BC9,float64,6,6,0,0.0,6,False,18.2974,33.9611,26.8693,27.3529,5.7501,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,f,1,Days,int64,6,6,0,0.0,6,False,7.0,90.0,36.0,24.5,31.4006,False,N/A,Input Feature (Curing Age)
+C Strenth Reading 1000000.xlsx,f,2,NC,float64,6,6,0,0.0,6,False,2.212,3.1,2.702,2.7,0.3311,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,f,3,BC3,float64,6,6,0,0.0,5,False,2.5,3.3,3.0,3.05,0.3098,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,f,4,NC.1,float64,6,6,0,0.0,6,False,2.7906,4.6201,3.7966,3.8812,0.6686,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,f,5,BC4,float64,6,6,0,0.0,6,False,3.1984,5.6033,4.4833,4.5613,0.8933,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,f,6,NC.2,float64,6,6,0,0.0,6,False,2.7906,4.6201,3.7966,3.8812,0.6686,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,f,7,BC5,float64,6,6,0,0.0,6,False,3.1984,5.6033,4.4833,4.5613,0.8933,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,f,8,NC.3,float64,6,6,0,0.0,6,False,2.2906,4.1201,3.2966,3.3812,0.6686,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,f,9,BC6,float64,6,6,0,0.0,6,False,2.5784,4.9833,3.8633,3.9413,0.8933,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,f,10,NC.4,float64,6,6,0,0.0,6,False,1.6906,3.5201,2.6966,2.7812,0.6686,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,f,11,BC7,float64,6,6,0,0.0,6,False,1.8784,4.2833,3.1633,3.2413,0.8933,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,f,12,NC.5,float64,6,6,0,0.0,6,False,1.2906,3.1201,2.2966,2.3812,0.6686,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,f,13,BC8,float64,6,6,0,0.0,6,False,1.2784,3.6833,2.5633,2.6413,0.8933,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,f,14,NC.6,float64,6,6,0,0.0,6,False,0.6906,2.5201,1.6966,1.7812,0.6686,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,f,15,BC9,float64,6,6,0,0.0,6,False,0.5284,2.9333,1.8133,1.8913,0.8933,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,t,1,Days,int64,6,6,0,0.0,6,False,7.0,90.0,36.0,24.5,31.4006,False,N/A,Input Feature (Curing Age)
+C Strenth Reading 1000000.xlsx,t,2,NC,float64,6,6,0,0.0,6,False,2.8451,4.719,3.7904,3.7559,0.7795,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,t,3,BC3,float64,6,6,0,0.0,6,False,3.1725,5.422,4.277,4.211,0.939,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,t,4,NC.1,float64,6,6,0,0.0,6,False,3.0,5.1,4.0867,4.05,0.79,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,t,5,BC4,float64,6,6,0,0.0,6,False,3.4366,5.5888,4.4321,4.3336,1.0613,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,t,6,NC.2,float64,6,6,0,0.0,6,False,3.45,5.865,4.6997,4.6575,0.9085,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,t,7,BC5,float64,6,6,0,0.0,6,False,3.8866,6.3538,5.0451,4.933,1.1706,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,t,8,NC.3,float64,6,6,0,0.0,6,False,2.95,5.365,4.1997,4.1575,0.9085,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,t,9,BC6,float64,6,6,0,0.0,6,False,3.3866,5.8538,4.5451,4.433,1.1706,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,t,10,NC.4,float64,6,6,0,0.0,6,False,2.35,4.765,3.5997,3.5575,0.9085,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,t,11,BC7,float64,6,6,0,0.0,6,False,2.6866,5.1538,3.8451,3.733,1.1706,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,t,12,NC.5,float64,6,6,0,0.0,6,False,1.8,4.215,3.0497,3.0075,0.9085,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,t,13,BC8,float64,6,6,0,0.0,6,False,2.0666,4.5338,3.2251,3.113,1.1706,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,t,14,NC.6,float64,6,6,0,0.0,6,False,1.2,3.615,2.4497,2.4075,0.9085,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,t,15,BC9,float64,6,6,0,0.0,6,False,1.2666,3.7338,2.4251,2.313,1.1706,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Sheet1,1,Sample No,object,111,107,4,3.6,101,False,1.0,100.0,49.6792,49.5,29.1866,False,N/A,Identifier / Index
+C Strenth Reading 1000000.xlsx,Sheet1,2,7 N,object,111,109,2,1.8,98,False,15.57,1934.44,37.4871,19.42,184.2559,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Sheet1,3,7 BC,object,111,109,2,1.8,100,False,17.95,2203.59,42.7641,22.0359,209.8911,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Sheet1,4,14 N,float64,111,102,9,8.11,94,False,20.62,2353.35,46.3748,23.625,230.6906,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Sheet1,5,14 BC,float64,111,102,9,8.11,90,False,23.38,2649.05,52.2019,26.605,259.6761,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Sheet1,6,21 N,float64,111,102,9,8.11,94,False,20.64,2559.71,50.4413,25.645,250.9197,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Sheet1,7,21 BC,float64,111,102,9,8.11,91,False,27.23,2984.26,58.8075,29.77,292.5342,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Sheet1,8,28 N,float64,111,102,9,8.11,93,False,24.81,2816.07,55.4931,28.13,276.0473,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Sheet1,9,28 BC,float64,111,102,9,8.11,91,False,29.36,3304.19,65.112,33.13,323.8951,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Sheet1,10,56 N,float64,111,102,9,8.11,98,False,27.55,3091.64,60.9235,30.9132,303.0609,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Sheet1,11,56 BC,float64,111,102,9,8.11,91,False,32.73,3724.06,73.3859,37.3,365.0522,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Sheet1,12,90 N,float64,111,102,9,8.11,91,False,29.29,3282.67,64.6879,32.8633,321.7854,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Sheet1,13,90 BC,float64,111,102,9,8.11,94,False,36.16,4066.08,80.1257,40.785,398.5793,True,Compressive Strength,Target Variable
+C Strenth Reading 1000000.xlsx,Sheet3,1,0,float64,10,0,10,100.0,0,False,,,,,,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Sheet3,2,1,object,10,7,3,30.0,7,False,1.0,6.0,3.5,3.5,1.8708,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Sheet3,3,2,object,10,7,3,30.0,6,False,19.15,21.78,20.015,19.77,1.0392,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Sheet3,4,3,object,10,7,3,30.0,7,False,20.62,24.82,23.0883,23.22,1.4314,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Sheet3,5,4,object,10,7,3,30.0,7,False,21.38,24.11,22.8183,22.93,0.9201,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Sheet3,6,5,object,10,7,3,30.0,7,False,24.17,28.07,25.8667,25.58,1.5811,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Sheet3,7,6,object,10,7,3,30.0,7,False,23.43,27.12,25.6833,26.19,1.5614,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Sheet3,8,7,object,10,7,3,30.0,7,False,28.73,30.91,29.33,28.945,0.8411,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Sheet3,9,8,object,10,7,3,30.0,7,False,26.76,29.12,28.0183,28.075,0.9354,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Sheet3,10,9,object,10,7,3,30.0,7,False,32.41,34.92,33.38,33.18,0.8439,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Sheet3,11,10,object,10,7,3,30.0,7,False,28.61,31.93,30.5067,30.665,1.1309,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Sheet3,12,11,object,10,7,3,30.0,7,False,36.03,39.1,37.7083,37.82,1.0706,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Sheet3,13,12,object,10,7,3,30.0,7,False,30.9,35.86,33.2133,33.055,1.8137,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,Sheet3,14,13,object,10,7,3,30.0,7,False,36.16,43.63,40.53,41.145,2.6874,False,N/A,Feature / Reading
+C Strenth Reading 1000000.xlsx,RCPT,1,Sr. No,int64,8,8,0,0.0,8,False,1.0,8.0,4.5,4.5,2.4495,False,N/A,Identifier / Index
+C Strenth Reading 1000000.xlsx,RCPT,2,Bacterial Dose (cells/ml),str,8,8,0,0.0,8,False,,,,,,False,N/A,Input Feature (Bacterial Concentration)
+C Strenth Reading 1000000.xlsx,RCPT,3,RCPT (Coulombs),int64,8,8,0,0.0,8,False,1900.0,3100.0,2613.75,2705.0,432.2016,True,Rapid Chloride Permeability,Target Variable
+C Strenth Reading 1000000.xlsx,Water Absorption,1,Sr. No,int64,7,7,0,0.0,7,False,1.0,7.0,4.0,4.0,2.1602,False,N/A,Identifier / Index
+C Strenth Reading 1000000.xlsx,Water Absorption,2,Bacterial Dose (cells/ml),str,7,7,0,0.0,7,False,,,,,,False,N/A,Input Feature (Bacterial Concentration)
+C Strenth Reading 1000000.xlsx,Water Absorption,3,Water Absorption (%),float64,7,7,0,0.0,7,False,4.3,5.8,4.9286,4.9,0.5589,True,Water Absorption,Target Variable
+F Strength Reading 1000000.xlsx,Sheet1,1,Concrete Type,str,1200,1200,0,0.0,2,False,,,,,,False,N/A,Input Feature (Concrete Type)
+F Strength Reading 1000000.xlsx,Sheet1,2,Curing Age (Days),int64,1200,1200,0,0.0,6,False,7.0,90.0,36.0,24.5,28.6767,False,N/A,Input Feature (Curing Age)
+F Strength Reading 1000000.xlsx,Sheet1,3,Cement,str,1200,1200,0,0.0,1,True,,,,,,False,N/A,Constant Feature
+F Strength Reading 1000000.xlsx,Sheet1,4,Bacteria,str,1200,1200,0,0.0,1,True,,,,,,False,N/A,Constant Feature
+F Strength Reading 1000000.xlsx,Sheet1,5,Bacterial Concentration (cells/mL),int64,1200,1200,0,0.0,1,True,1000000.0,1000000.0,1000000.0,1000000.0,0.0,False,N/A,Constant Feature
+F Strength Reading 1000000.xlsx,Sheet1,6,Flexural Strength (MPa),float64,1200,1000,200,16.67,842,False,2.428,5.698,4.1581,4.196,0.6676,True,Flexural Strength,Target Variable
+F Strength Reading 1000000.xlsx,Sheet2,1,Sample No,object,111,107,4,3.6,101,False,1.0,100.0,49.6792,49.5,29.1866,False,N/A,Identifier / Index
+F Strength Reading 1000000.xlsx,Sheet2,2,7 N,object,111,109,2,1.8,103,False,2.428,299.135,5.7914,2.9965,28.4931,True,Flexural Strength,Target Variable
+F Strength Reading 1000000.xlsx,Sheet2,3,7 BC,object,111,109,2,1.8,103,False,2.687,353.169,6.8396,3.547,33.6396,True,Flexural Strength,Target Variable
+F Strength Reading 1000000.xlsx,Sheet2,4,14 N,float64,111,102,9,8.11,100,False,3.11,361.603,7.1257,3.6255,35.4468,True,Flexural Strength,Target Variable
+F Strength Reading 1000000.xlsx,Sheet2,5,14 BC,float64,111,102,9,8.11,99,False,3.555,419.65,8.2696,4.1958,41.1367,True,Flexural Strength,Target Variable
+F Strength Reading 1000000.xlsx,Sheet2,6,21 N,float64,111,102,9,8.11,100,False,3.315,390.453,7.6942,3.9235,38.2748,True,Flexural Strength,Target Variable
+F Strength Reading 1000000.xlsx,Sheet2,7,21 BC,float64,111,102,9,8.11,97,False,3.898,463.056,9.1249,4.641,45.3916,True,Flexural Strength,Target Variable
+F Strength Reading 1000000.xlsx,Sheet2,8,28 N,float64,111,102,9,8.11,94,False,3.558,418.927,8.2553,4.168,41.066,True,Flexural Strength,Target Variable
+F Strength Reading 1000000.xlsx,Sheet2,9,28 BC,float64,111,102,9,8.11,96,False,4.376,500.831,9.8693,5.015,49.0945,True,Flexural Strength,Target Variable
+F Strength Reading 1000000.xlsx,Sheet2,10,56 N,float64,111,102,9,8.11,93,False,3.938,459.902,9.0628,4.592,45.0823,True,Flexural Strength,Target Variable
+F Strength Reading 1000000.xlsx,Sheet2,11,56 BC,float64,111,102,9,8.11,98,False,4.918,553.031,10.898,5.525,54.2112,True,Flexural Strength,Target Variable
+F Strength Reading 1000000.xlsx,Sheet2,12,90 N,float64,111,102,9,8.11,96,False,4.269,491.344,9.6824,4.923,48.1646,True,Flexural Strength,Target Variable
+F Strength Reading 1000000.xlsx,Sheet2,13,90 BC,float64,111,102,9,8.11,95,False,5.191,591.327,11.6526,5.9265,57.9654,True,Flexural Strength,Target Variable
+T Strenth Reading 1000000.xlsx,Sheet1,1,Concrete Type,str,1200,1200,0,0.0,2,False,,,,,,False,N/A,Input Feature (Concrete Type)
+T Strenth Reading 1000000.xlsx,Sheet1,2,Curing Age (Days),int64,1200,1200,0,0.0,6,False,7.0,90.0,36.0,24.5,28.6767,False,N/A,Input Feature (Curing Age)
+T Strenth Reading 1000000.xlsx,Sheet1,3,Cement,str,1200,1200,0,0.0,1,True,,,,,,False,N/A,Constant Feature
+T Strenth Reading 1000000.xlsx,Sheet1,4,Bacteria,str,1200,1200,0,0.0,1,True,,,,,,False,N/A,Constant Feature
+T Strenth Reading 1000000.xlsx,Sheet1,5,Bacterial Concentration (cells/mL),int64,1200,1200,0,0.0,1,True,1000000.0,1000000.0,1000000.0,1000000.0,0.0,False,N/A,Constant Feature
+T Strenth Reading 1000000.xlsx,Sheet1,6,Split Tensile Strength (MPa),float64,1200,1200,0,0.0,921,False,1.38,4.183,2.7621,2.764,0.5833,True,Tensile Strength,Target Variable
+T Strenth Reading 1000000.xlsx,Ten 6,1,Sample No,float64,113,100,13,11.5,100,False,1.0,100.0,50.5,50.5,29.0115,False,N/A,Identifier / Index
+T Strenth Reading 1000000.xlsx,Ten 6,2,7 N,object,113,109,4,3.54,102,False,1.38,180.405,5.3575,1.8055,19.9259,True,Tensile Strength,Target Variable
+T Strenth Reading 1000000.xlsx,Ten 6,3,7 BC,object,113,109,4,3.54,103,False,1.772,210.518,4.0577,2.1065,20.0533,True,Tensile Strength,Target Variable
+T Strenth Reading 1000000.xlsx,Ten 6,4,14 N,object,113,109,4,3.54,97,False,1.715,219.706,4.2562,2.213,20.9272,True,Tensile Strength,Target Variable
+T Strenth Reading 1000000.xlsx,Ten 6,5,14 BC,float64,113,102,11,9.73,94,False,2.181,258.217,5.0884,2.5805,25.3121,True,Tensile Strength,Target Variable
+T Strenth Reading 1000000.xlsx,Ten 6,6,21 N,float64,113,102,11,9.73,85,False,2.077,238.571,4.7013,2.3865,23.3863,True,Tensile Strength,Target Variable
+T Strenth Reading 1000000.xlsx,Ten 6,7,21 BC,float64,113,102,11,9.73,95,False,2.599,289.088,5.6967,2.8884,28.3381,True,Tensile Strength,Target Variable
+T Strenth Reading 1000000.xlsx,Ten 6,8,28 N,float64,113,102,11,9.73,96,False,2.362,267.997,5.2811,2.6765,26.2706,True,Tensile Strength,Target Variable
+T Strenth Reading 1000000.xlsx,Ten 6,9,28 BC,float64,113,102,11,9.73,88,False,2.725,317.524,6.2571,3.1795,31.1255,True,Tensile Strength,Target Variable
+T Strenth Reading 1000000.xlsx,Ten 6,10,56 N,float64,113,102,11,9.73,94,False,2.505,290.42,5.723,2.913,28.4687,True,Tensile Strength,Target Variable
+T Strenth Reading 1000000.xlsx,Ten 6,11,56 BC,float64,113,102,11,9.73,96,False,3.146,350.014,6.8973,3.526,34.3103,True,Tensile Strength,Target Variable
+T Strenth Reading 1000000.xlsx,Ten 6,12,90 N,float64,113,102,11,9.73,96,False,2.682,311.618,6.1407,3.124,30.5466,True,Tensile Strength,Target Variable
+T Strenth Reading 1000000.xlsx,Ten 6,13,90 BC,float64,113,102,11,9.73,88,False,3.383,380.428,7.4967,3.8086,37.2916,True,Tensile Strength,Target Variable

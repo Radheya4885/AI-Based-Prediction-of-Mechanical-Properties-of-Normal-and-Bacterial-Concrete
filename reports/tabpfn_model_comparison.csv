@@ -1,0 +1,9 @@
+model,feature_set,property,mae,rmse,r2,mape,n,training_time_sec
+TabPFN_Pretrained,V1_RAW,ALL (Pooled Unified),1.4347,3.04,0.945858,22.6467,2800,392.9
+TabPFN_Pretrained,V1_RAW,Compressive Strength,1.6856,2.0899,0.853524,5.5958,900,392.9
+TabPFN_Pretrained,V1_RAW,Flexural Strength,2.2947,4.8911,-38.673023,47.2123,900,392.9
+TabPFN_Pretrained,V1_RAW,Split Tensile Strength,0.4348,0.6442,-0.501523,15.8834,1000,392.9
+TabPFN_Pretrained,V2_ENGINEERED,ALL (Pooled Unified),1.2664,2.307,0.968819,19.7835,2800,731.7
+TabPFN_Pretrained,V2_ENGINEERED,Compressive Strength,1.6168,2.0385,0.86065,5.3131,900,731.7
+TabPFN_Pretrained,V2_ENGINEERED,Flexural Strength,1.8116,3.436,-18.578415,37.5384,900,731.7
+TabPFN_Pretrained,V2_ENGINEERED,Split Tensile Strength,0.4603,0.7331,-0.944406,16.8274,1000,731.7

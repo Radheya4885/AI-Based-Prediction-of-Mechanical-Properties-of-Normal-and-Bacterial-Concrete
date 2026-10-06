@@ -1,0 +1,73 @@
+strategy,model,feature_set,mechanical_property,n_folds,mae,rmse,r2,mape,nrmse,n,std_mae,std_rmse,std_r2,n_samples_dev
+separate,CatBoost,core,Compressive Strength,5,3.2143,3.8577,0.500939,10.6075,0.126129,900,1.207,1.1826,4.3825,900
+separate,CatBoost,core,Flexural Strength,5,0.4555,0.5301,0.533946,10.8308,0.122398,900,0.1251,0.1159,2.7538,900
+separate,CatBoost,core,Split Tensile Strength,5,0.3366,0.3876,0.456327,13.3729,0.143805,1000,0.1019,0.099,1.0666,1000
+separate,CatBoost,expanded,Compressive Strength,5,3.2143,3.8577,0.500939,10.6075,0.126129,900,1.207,1.1826,4.3825,900
+separate,CatBoost,expanded,Flexural Strength,5,0.4555,0.5301,0.533946,10.8308,0.122398,900,0.1251,0.1159,2.7538,900
+separate,CatBoost,expanded,Split Tensile Strength,5,0.3366,0.3876,0.456327,13.3729,0.143805,1000,0.1019,0.099,1.0666,1000
+separate,Dummy,core,Compressive Strength,5,5.4667,6.4745,-0.405763,18.0507,0.211686,900,2.1495,2.2086,11.2803,900
+separate,Dummy,core,Flexural Strength,5,0.7404,0.8991,-0.340466,18.1951,0.20758,900,0.4349,0.4097,15.8274,900
+separate,Dummy,core,Split Tensile Strength,5,0.5364,0.6365,-0.465842,21.8487,0.236129,1000,0.2736,0.2656,6.398,1000
+separate,Dummy,expanded,Compressive Strength,5,5.4667,6.4745,-0.405763,18.0507,0.211686,900,2.1495,2.2086,11.2803,900
+separate,Dummy,expanded,Flexural Strength,5,0.7404,0.8991,-0.340466,18.1951,0.20758,900,0.4349,0.4097,15.8274,900
+separate,Dummy,expanded,Split Tensile Strength,5,0.5364,0.6365,-0.465842,21.8487,0.236129,1000,0.2736,0.2656,6.398,1000
+separate,Linear,core,Compressive Strength,5,2.6578,3.3453,0.6247,8.6933,0.109377,900,1.1149,1.2039,1.1608,900
+separate,Linear,core,Flexural Strength,5,0.7113,1.0853,-0.953328,15.8985,0.250579,900,0.6312,0.6888,10.7653,900
+separate,Linear,core,Split Tensile Strength,5,0.3501,0.4424,0.291986,13.8261,0.164107,1000,0.1508,0.1724,2.5747,1000
+separate,Linear,expanded,Compressive Strength,5,2.6578,3.3453,0.6247,8.6933,0.109377,900,1.1149,1.2039,1.1608,900
+separate,Linear,expanded,Flexural Strength,5,0.7113,1.0853,-0.953328,15.8985,0.250579,900,0.6312,0.6888,10.7653,900
+separate,Linear,expanded,Split Tensile Strength,5,0.3501,0.4424,0.291986,13.8261,0.164107,1000,0.1508,0.1724,2.5747,1000
+separate,RandomForest,core,Compressive Strength,5,3.3204,3.9027,0.489237,10.6895,0.127599,900,0.9424,1.0847,1.3551,900
+separate,RandomForest,core,Flexural Strength,5,0.4554,0.5301,0.53396,10.8298,0.122397,900,0.1258,0.1166,2.7698,900
+separate,RandomForest,core,Split Tensile Strength,5,0.3311,0.3713,0.501083,13.5486,0.137759,1000,0.0712,0.07,0.9355,1000
+separate,RandomForest,expanded,Compressive Strength,5,3.3228,3.9046,0.488739,10.6991,0.127661,900,0.9417,1.084,1.3592,900
+separate,RandomForest,expanded,Flexural Strength,5,0.4554,0.5301,0.53396,10.8298,0.122397,900,0.1258,0.1166,2.7698,900
+separate,RandomForest,expanded,Split Tensile Strength,5,0.3316,0.3716,0.500416,13.5665,0.137851,1000,0.071,0.0698,0.9339,1000
+separate,Ridge,core,Compressive Strength,5,2.6553,3.3412,0.625629,8.6874,0.109242,900,1.1082,1.1979,1.1636,900
+separate,Ridge,core,Flexural Strength,5,0.7104,1.0834,-0.946633,15.8818,0.25015,900,0.6296,0.6871,10.7209,900
+separate,Ridge,core,Split Tensile Strength,5,0.3498,0.4419,0.293315,13.8194,0.163953,1000,0.1506,0.1721,2.5673,1000
+separate,Ridge,expanded,Compressive Strength,5,2.6553,3.3412,0.625629,8.6874,0.109242,900,1.1082,1.1979,1.1636,900
+separate,Ridge,expanded,Flexural Strength,5,0.7104,1.0834,-0.946633,15.8818,0.25015,900,0.6296,0.6871,10.7209,900
+separate,Ridge,expanded,Split Tensile Strength,5,0.3498,0.4419,0.293315,13.8194,0.163953,1000,0.1506,0.1721,2.5673,1000
+separate,XGBoost,core,Compressive Strength,5,3.0789,3.6956,0.542003,9.8314,0.120828,900,1.009,1.1306,1.0272,900
+separate,XGBoost,core,Flexural Strength,5,0.5518,0.6351,0.331135,13.104,0.146631,900,0.1692,0.1624,2.7682,900
+separate,XGBoost,core,Split Tensile Strength,5,0.377,0.4164,0.372491,14.8606,0.154495,1000,0.0895,0.0858,1.5391,1000
+separate,XGBoost,expanded,Compressive Strength,5,3.1338,3.7465,0.529303,10.0239,0.122492,900,1.0005,1.1253,1.1042,900
+separate,XGBoost,expanded,Flexural Strength,5,0.5535,0.6378,0.325463,13.144,0.147252,900,0.1712,0.1648,2.7829,900
+separate,XGBoost,expanded,Split Tensile Strength,5,0.3791,0.4187,0.365685,14.9264,0.155331,1000,0.0913,0.0874,1.6082,1000
+unified,CatBoost,core,Compressive Strength,5,2.4369,3.1104,0.675569,7.4407,0.101695,900,1.311,1.3129,0.531,900
+unified,CatBoost,core,Flexural Strength,5,1.1307,1.7901,-4.314246,24.9623,0.413312,900,1.0776,1.2043,29.9529,900
+unified,CatBoost,core,Split Tensile Strength,5,0.8584,1.3437,-5.532999,29.8578,0.498496,1000,0.9235,0.9678,54.2104,1000
+unified,CatBoost,expanded,Compressive Strength,5,3.1026,4.1688,0.417212,9.3543,0.136299,900,2.3387,2.2898,1.2089,900
+unified,CatBoost,expanded,Flexural Strength,5,0.7844,1.0635,-0.875796,17.9885,0.245556,900,0.5202,0.5697,8.3552,900
+unified,CatBoost,expanded,Split Tensile Strength,5,0.7375,1.0419,-2.927661,26.3435,0.386521,1000,0.6526,0.6569,27.969,1000
+unified,Dummy,core,Compressive Strength,5,18.5217,19.4609,-11.70055,59.0295,0.63628,900,5.5697,5.6691,27.0091,900
+unified,Dummy,core,Flexural Strength,5,7.9464,8.0216,-105.709077,193.7007,1.852074,900,0.9707,0.9683,388.7799,900
+unified,Dummy,core,Split Tensile Strength,5,9.4882,9.5271,-327.417656,371.0904,3.534425,1000,0.8311,0.8309,612.5864,1000
+unified,Dummy,expanded,Compressive Strength,5,18.5217,19.4609,-11.70055,59.0295,0.63628,900,5.5697,5.6691,27.0091,900
+unified,Dummy,expanded,Flexural Strength,5,7.9464,8.0216,-105.709077,193.7007,1.852074,900,0.9707,0.9683,388.7799,900
+unified,Dummy,expanded,Split Tensile Strength,5,9.4882,9.5271,-327.417656,371.0904,3.534425,1000,0.8311,0.8309,612.5864,1000
+unified,Linear,core,Compressive Strength,5,3.3132,4.0816,0.441338,10.936,0.133448,900,1.2499,1.3851,3.9278,900
+unified,Linear,core,Flexural Strength,5,1.9738,2.8189,-12.178069,43.6781,0.650854,900,1.7693,1.7774,72.6502,900
+unified,Linear,core,Split Tensile Strength,5,1.8016,2.6661,-24.718795,64.8547,0.989079,1000,1.7701,1.7486,191.3562,1000
+unified,Linear,expanded,Compressive Strength,5,3.3132,4.0816,0.441338,10.936,0.133448,900,1.2499,1.3851,3.9278,900
+unified,Linear,expanded,Flexural Strength,5,1.9738,2.8189,-12.178069,43.6781,0.650854,900,1.7693,1.7774,72.6502,900
+unified,Linear,expanded,Split Tensile Strength,5,1.8016,2.6661,-24.718795,64.8547,0.989079,1000,1.7701,1.7486,191.3562,1000
+unified,RandomForest,core,Compressive Strength,5,3.3094,3.8942,0.491457,10.6463,0.127321,900,0.9496,1.0908,1.3356,900
+unified,RandomForest,core,Flexural Strength,5,0.5695,0.6709,0.253541,13.6653,0.154903,900,0.208,0.2086,3.0492,900
+unified,RandomForest,core,Split Tensile Strength,5,0.3397,0.3794,0.479047,13.6542,0.140768,1000,0.079,0.0764,0.9669,1000
+unified,RandomForest,expanded,Compressive Strength,5,3.3168,3.9,0.489937,10.6757,0.127511,900,0.9473,1.0885,1.348,900
+unified,RandomForest,expanded,Flexural Strength,5,0.5695,0.6709,0.253541,13.6653,0.154903,900,0.208,0.2086,3.0492,900
+unified,RandomForest,expanded,Split Tensile Strength,5,0.3378,0.3779,0.483209,13.59,0.140205,1000,0.0802,0.0775,0.9791,1000
+unified,Ridge,core,Compressive Strength,5,3.3107,4.082,0.441217,10.9144,0.133462,900,1.2513,1.3902,3.8761,900
+unified,Ridge,core,Flexural Strength,5,1.9764,2.8277,-12.259836,43.69,0.65287,900,1.7809,1.7903,73.3871,900
+unified,Ridge,core,Split Tensile Strength,5,1.8061,2.6741,-24.874842,64.9482,0.992075,1000,1.779,1.7585,193.3427,1000
+unified,Ridge,expanded,Compressive Strength,5,3.3123,4.0823,0.441145,10.9266,0.133471,900,1.2508,1.3879,3.903,900
+unified,Ridge,expanded,Flexural Strength,5,1.9746,2.8224,-12.210649,43.6714,0.651658,900,1.7745,1.7833,72.9713,900
+unified,Ridge,expanded,Split Tensile Strength,5,1.8033,2.6693,-24.781212,64.8832,0.990278,1000,1.774,1.753,192.2273,1000
+unified,XGBoost,core,Compressive Strength,5,2.38,2.7913,0.738713,7.9811,0.091263,900,0.4669,0.4841,1.3588,900
+unified,XGBoost,core,Flexural Strength,5,0.6863,0.9609,-0.531372,16.0378,0.22187,900,0.4065,0.5001,7.0197,900
+unified,XGBoost,core,Split Tensile Strength,5,0.7084,1.0833,-3.246001,26.0319,0.401879,1000,0.5148,0.691,31.6124,1000
+unified,XGBoost,expanded,Compressive Strength,5,2.5192,2.8997,0.718032,8.3718,0.094806,900,0.2376,0.2499,1.2439,900
+unified,XGBoost,expanded,Flexural Strength,5,0.4689,0.5433,0.510582,11.4996,0.125429,900,0.1154,0.1108,2.6687,900
+unified,XGBoost,expanded,Split Tensile Strength,5,0.3148,0.3576,0.537302,12.9313,0.132664,1000,0.0706,0.0658,1.0532,1000

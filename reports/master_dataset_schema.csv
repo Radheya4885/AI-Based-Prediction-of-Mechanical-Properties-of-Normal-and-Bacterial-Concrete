@@ -1,0 +1,17 @@
+column_index,column_name,data_type,total_count,non_null_count,missing_count,missing_percentage,unique_count,is_constant,min_value,max_value,mean_value,std_value,is_target,sample_values
+1,sample_id,str,3600,3600,0,0.0,3600,False,,,,,False,CS_NC_07d_001 | CS_BC_07d_001 | CS_NC_07d_002 | CS_BC_07d_002
+2,experiment_id,str,3600,3600,0,0.0,36,False,,,,,False,EXP_CS_NC_07d | EXP_CS_BC_07d | EXP_CS_NC_14d | EXP_CS_BC_14d
+3,sample_replicate,int64,3600,3600,0,0.0,100,False,1,100,50.5000,28.8701,False,1 | 2 | 3 | 4
+4,concrete_type,str,3600,3600,0,0.0,2,False,,,,,False,Normal Concrete | Bacterial Concrete
+5,bacterial_status,str,3600,3600,0,0.0,2,False,,,,,False,Control | Inoculated
+6,bacterial_species,str,3600,3600,0,0.0,2,False,,,,,False,None | Bacillus subtilis
+7,bacterial_concentration_cells_ml,int64,3600,3600,0,0.0,2,False,0,1000000,500000.0000,500069.4589,False,0 | 1000000
+8,cement_type,str,3600,3600,0,0.0,1,True,,,,,False,OPC 53 (UltraTech)
+9,curing_age_days,int64,3600,3600,0,0.0,6,False,7,90,36.0000,28.6687,False,7 | 14 | 21 | 28
+10,mechanical_property,str,3600,3600,0,0.0,3,False,,,,,False,Compressive Strength | Flexural Strength | Split Tensile Strength
+11,strength_mpa,float64,3600,3600,0,0.0,2751,False,1.38,44.16,12.1072,12.5928,True,20.25 | 23.14 | 19.29 | 20.62
+12,specimen_geometry,str,3600,3600,0,0.0,3,False,,,,,False,150mm Cube | 100x100x500mm Prism | 150x300mm Cylinder
+13,source_file,str,3600,3600,0,0.0,3,False,,,,,False,C Strenth Reading 1000000.xlsx | F Strength Reading 1000000.xlsx | T Strenth Reading 1000000.xlsx
+14,source_sheet,str,3600,3600,0,0.0,3,False,,,,,False,Comp 6 | Sheet1 | Sheet2
+15,source_row_index,int64,3600,3600,0,0.0,1200,False,2,1201,443.6667,312.2674,False,3 | 4 | 5 | 6
+16,is_restored_value,bool,3600,3600,0,0.0,2,False,,,,,False,False | True
