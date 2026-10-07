@@ -176,21 +176,32 @@ for fold_idx in range(1, 6):
 
     # Check if this fold was already completed and serialized (Resume support)
     fold_completed = False
-    if fold_model_file.exists() and fold_config_file.exists() and fold_val_preds_file.exists():
+    if fold_val_preds_file.exists() and fold_config_file.exists():
         try:
-            print(f"  Found existing artifact for Fold {fold_idx}. Verifying integrity...", flush=True)
-            loaded_reg = joblib.load(fold_model_file)
+            print(f"  Found existing validation predictions & config for Fold {fold_idx}. Verifying integrity...", flush=True)
             saved_preds_df = pd.read_csv(fold_val_preds_file)
-            if len(saved_preds_df) == len(outer_val):
+            val_samples_match = set(saved_preds_df["sample_id"]) == set(outer_val["sample_id"])
+            if len(saved_preds_df) == len(outer_val) and val_samples_match:
                 with open(fold_config_file, "r") as cf:
                     fold_cfg = json.load(cf)
-                print(f"  Verified existing Fold {fold_idx} artifact! Reusing completed fold.", flush=True)
-                ft_reg = loaded_reg
+                
+                if fold_model_file.exists():
+                    try:
+                        loaded_reg = joblib.load(fold_model_file)
+                        ft_reg = loaded_reg
+                        print(f"  Verified existing Fold {fold_idx} artifact and loaded model! Reusing completed fold.", flush=True)
+                    except Exception as je:
+                        print(f"  Notice: joblib load failed ({je}), but valid predictions are preserved.", flush=True)
+                else:
+                    print(f"  Verified existing Fold {fold_idx} predictions & config! Preserving completed OOF predictions per policy.", flush=True)
+                
                 y_outer_pred = saved_preds_df["strength_mpa_pred"].values
                 int_val_metrics = fold_cfg.get("internal_val_metrics", {})
                 fit_duration = fold_cfg.get("fit_duration_sec", 0.0)
                 pred_duration = fold_cfg.get("pred_duration_sec", 0.0)
                 fold_completed = True
+            else:
+                print(f"  Warning: Existing prediction rows mismatch for Fold {fold_idx}. Need {len(outer_val)}, got {len(saved_preds_df)}.", flush=True)
         except Exception as e:
             print(f"  Warning: Existing artifact verification failed ({e}). Retraining Fold {fold_idx}...", flush=True)
             fold_completed = False

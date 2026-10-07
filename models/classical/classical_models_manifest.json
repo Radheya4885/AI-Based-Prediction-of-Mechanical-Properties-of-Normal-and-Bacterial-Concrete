@@ -1,0 +1,250 @@
+{
+  "generated_timestamp": "2026-10-07T18:48:31.462595+00:00",
+  "training_dataset": "data/splits/development_rows.csv (N=2,800)",
+  "random_state": 42,
+  "models": [
+    {
+      "filename": "xgboost_core_unified.joblib",
+      "model_name": "XGBoost",
+      "strategy": "Unified",
+      "feature_set": "core",
+      "target": "ALL (Unified with mechanical_property indicator)",
+      "n_train_samples": 2800,
+      "features": [
+        "curing_age_days",
+        "bacterial_concentration_cells_ml",
+        "concrete_type",
+        "bacterial_status",
+        "cement_type",
+        "bacterial_species",
+        "mechanical_property"
+      ],
+      "file_size_bytes": 144384,
+      "sha256": "8e29bd2dc4eecdfda505e323e0eccd3cf45243e9d072fe29d1ca72e6492896f7",
+      "training_time_sec": 0.36
+    },
+    {
+      "filename": "catboost_core_unified.joblib",
+      "model_name": "CatBoost",
+      "strategy": "Unified",
+      "feature_set": "core",
+      "target": "ALL (Unified with mechanical_property indicator)",
+      "n_train_samples": 2800,
+      "features": [
+        "curing_age_days",
+        "bacterial_concentration_cells_ml",
+        "concrete_type",
+        "bacterial_status",
+        "cement_type",
+        "bacterial_species",
+        "mechanical_property"
+      ],
+      "file_size_bytes": 56586,
+      "sha256": "0709b495cea65823766e63ab9a8ce9e060443206a9168b08bafd5b01d5f802ae",
+      "training_time_sec": 0.67
+    },
+    {
+      "filename": "randomforest_core_unified.joblib",
+      "model_name": "RandomForest",
+      "strategy": "Unified",
+      "feature_set": "core",
+      "target": "ALL (Unified with mechanical_property indicator)",
+      "n_train_samples": 2800,
+      "features": [
+        "curing_age_days",
+        "bacterial_concentration_cells_ml",
+        "concrete_type",
+        "bacterial_status",
+        "cement_type",
+        "bacterial_species",
+        "mechanical_property"
+      ],
+      "file_size_bytes": 250732,
+      "sha256": "4f0232b4dfa4b55e5f77907eec06abe21a1aec9127f6063ca736c85b3b1ac032",
+      "training_time_sec": 0.23
+    },
+    {
+      "filename": "xgboost_expanded_unified.joblib",
+      "model_name": "XGBoost",
+      "strategy": "Unified",
+      "feature_set": "expanded",
+      "target": "ALL (Unified with mechanical_property indicator)",
+      "n_train_samples": 2800,
+      "features": [
+        "curing_age_days",
+        "bacterial_concentration_cells_ml",
+        "concrete_type",
+        "bacterial_status",
+        "cement_type",
+        "bacterial_species",
+        "specimen_geometry",
+        "mechanical_property"
+      ],
+      "file_size_bytes": 151496,
+      "sha256": "718411178d1900361ad469b6a6b662b8014c033db9c23ce7ecb6a5e13cb86b39",
+      "training_time_sec": 0.2
+    },
+    {
+      "filename": "catboost_expanded_unified.joblib",
+      "model_name": "CatBoost",
+      "strategy": "Unified",
+      "feature_set": "expanded",
+      "target": "ALL (Unified with mechanical_property indicator)",
+      "n_train_samples": 2800,
+      "features": [
+        "curing_age_days",
+        "bacterial_concentration_cells_ml",
+        "concrete_type",
+        "bacterial_status",
+        "cement_type",
+        "bacterial_species",
+        "specimen_geometry",
+        "mechanical_property"
+      ],
+      "file_size_bytes": 55949,
+      "sha256": "7d96c6cd8c8add3a512fcdc72a1a4e887e27d711cb68ef50be4b037ea4258f43",
+      "training_time_sec": 0.48
+    },
+    {
+      "filename": "randomforest_expanded_unified.joblib",
+      "model_name": "RandomForest",
+      "strategy": "Unified",
+      "feature_set": "expanded",
+      "target": "ALL (Unified with mechanical_property indicator)",
+      "n_train_samples": 2800,
+      "features": [
+        "curing_age_days",
+        "bacterial_concentration_cells_ml",
+        "concrete_type",
+        "bacterial_status",
+        "cement_type",
+        "bacterial_species",
+        "specimen_geometry",
+        "mechanical_property"
+      ],
+      "file_size_bytes": 251473,
+      "sha256": "6925deeeaaeaca810ba45f6a6352ca75fa559081f7271645213278b09e800a93",
+      "training_time_sec": 0.2
+    },
+    {
+      "filename": "xgboost_expanded_compressive.joblib",
+      "model_name": "XGBoost",
+      "strategy": "Separate",
+      "feature_set": "expanded",
+      "target": "Compressive Strength",
+      "n_train_samples": 900,
+      "features": [
+        "curing_age_days",
+        "bacterial_concentration_cells_ml",
+        "concrete_type",
+        "bacterial_status",
+        "cement_type",
+        "bacterial_species",
+        "specimen_geometry"
+      ],
+      "file_size_bytes": 66571,
+      "sha256": "c9cb250ee86fc8e32e7d9af08a4c4ba0f498d0afab5a462e5d94b6e17954200e",
+      "training_time_sec": 0.15
+    },
+    {
+      "filename": "catboost_expanded_compressive.joblib",
+      "model_name": "CatBoost",
+      "strategy": "Separate",
+      "feature_set": "expanded",
+      "target": "Compressive Strength",
+      "n_train_samples": 900,
+      "features": [
+        "curing_age_days",
+        "bacterial_concentration_cells_ml",
+        "concrete_type",
+        "bacterial_status",
+        "cement_type",
+        "bacterial_species",
+        "specimen_geometry"
+      ],
+      "file_size_bytes": 30674,
+      "sha256": "96d89fa9f36c49a8883449e8223653b500c2e1c63e3c9c1ccc2fc89a4a967a67",
+      "training_time_sec": 0.21
+    },
+    {
+      "filename": "xgboost_expanded_flexural.joblib",
+      "model_name": "XGBoost",
+      "strategy": "Separate",
+      "feature_set": "expanded",
+      "target": "Flexural Strength",
+      "n_train_samples": 900,
+      "features": [
+        "curing_age_days",
+        "bacterial_concentration_cells_ml",
+        "concrete_type",
+        "bacterial_status",
+        "cement_type",
+        "bacterial_species",
+        "specimen_geometry"
+      ],
+      "file_size_bytes": 69318,
+      "sha256": "1b60fa4db3683caf0c508d4d2f5a48e89ebfc17dddb3594036b91512c006b270",
+      "training_time_sec": 0.09
+    },
+    {
+      "filename": "catboost_expanded_flexural.joblib",
+      "model_name": "CatBoost",
+      "strategy": "Separate",
+      "feature_set": "expanded",
+      "target": "Flexural Strength",
+      "n_train_samples": 900,
+      "features": [
+        "curing_age_days",
+        "bacterial_concentration_cells_ml",
+        "concrete_type",
+        "bacterial_status",
+        "cement_type",
+        "bacterial_species",
+        "specimen_geometry"
+      ],
+      "file_size_bytes": 29722,
+      "sha256": "cddc7d892f25553b310e1d46d3b8b036c562da6a7a3b606ea4b33da958c28592",
+      "training_time_sec": 0.22
+    },
+    {
+      "filename": "xgboost_expanded_split_tensile.joblib",
+      "model_name": "XGBoost",
+      "strategy": "Separate",
+      "feature_set": "expanded",
+      "target": "Split Tensile Strength",
+      "n_train_samples": 1000,
+      "features": [
+        "curing_age_days",
+        "bacterial_concentration_cells_ml",
+        "concrete_type",
+        "bacterial_status",
+        "cement_type",
+        "bacterial_species",
+        "specimen_geometry"
+      ],
+      "file_size_bytes": 73435,
+      "sha256": "4a56bd6c419b9e3538721087eb6a197b9866d539429571dacd081af6d8487d1e",
+      "training_time_sec": 0.12
+    },
+    {
+      "filename": "catboost_expanded_split_tensile.joblib",
+      "model_name": "CatBoost",
+      "strategy": "Separate",
+      "feature_set": "expanded",
+      "target": "Split Tensile Strength",
+      "n_train_samples": 1000,
+      "features": [
+        "curing_age_days",
+        "bacterial_concentration_cells_ml",
+        "concrete_type",
+        "bacterial_status",
+        "cement_type",
+        "bacterial_species",
+        "specimen_geometry"
+      ],
+      "file_size_bytes": 33385,
+      "sha256": "2c6fd402b6e99220bcd8987f428fb8f9c974c913f96a741304fe475d135910cc",
+      "training_time_sec": 0.24
+    }
+  ]
+}

@@ -47,3 +47,7 @@ htmlcov/
 # Operating System Files
 .DS_Store
 Thumbs.db
+
+# Large intermediate fold binaries
+results/models/tabpfn/fold_models_run2/**/*.joblib
+

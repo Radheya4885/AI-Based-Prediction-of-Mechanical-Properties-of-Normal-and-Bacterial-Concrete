@@ -1,0 +1,261 @@
+{
+  "task": "5-Fold Grouped Cross-Validation of Fine-Tuned TabPFN (Run 2)",
+  "timestamp": "2026-10-07T22:40:41Z",
+  "total_execution_time_sec": 222.5,
+  "total_execution_time_min": 3.71,
+  "n_development_rows": 2800,
+  "n_cohorts": 28,
+  "n_folds": 5,
+  "grouping_variable": "experiment_id",
+  "features": [
+    "curing_age_days",
+    "concrete_type",
+    "bacterial_concentration_cells_ml",
+    "mechanical_property",
+    "age_log",
+    "age_sqrt",
+    "bacterial_present",
+    "bacterial_concentration_log",
+    "age_x_bacterial",
+    "age_log_x_bacterial",
+    "age_squared"
+  ],
+  "hyperparameters": {
+    "epochs": 3,
+    "learning_rate": 5e-06,
+    "weight_decay": 0.01,
+    "grad_clip_value": 1.0,
+    "n_estimators_finetune": 1,
+    "n_estimators_validation": 1,
+    "n_estimators_final_inference": 2,
+    "base_checkpoint": "C:\\Users\\MAYURSHRESH\\OneDrive\\Desktop\\AI-Based-Prediction-of-Mechanical-Properties-of-Normal-and-Bacterial-Concrete\\models\\tabpfn-v2.5-regressor-v2.5_real.ckpt",
+    "device": "cpu"
+  },
+  "fold_results": [
+    {
+      "fold": 1,
+      "n_samples": 600,
+      "fit_time_sec": 520.3,
+      "pred_time_sec": 87.6,
+      "internal_val_mae": 10.1501,
+      "internal_val_rmse": 10.2985,
+      "internal_val_r2": -20.891819,
+      "per_property": {
+        "Compressive Strength": {
+          "mae": 1.3184,
+          "rmse": 1.6243,
+          "r2": 0.784859,
+          "mape": 3.9438,
+          "n": 200
+        },
+        "Flexural Strength": {
+          "mae": 8.5934,
+          "rmse": 10.2873,
+          "r2": -652.405397,
+          "mape": 172.3052,
+          "n": 200
+        },
+        "Split Tensile Strength": {
+          "mae": 5.579,
+          "rmse": 6.5669,
+          "r2": -743.482562,
+          "mape": 175.8911,
+          "n": 200
+        }
+      },
+      "mae": 5.1636,
+      "rmse": 7.1085,
+      "r2": 0.750212,
+      "mape": 117.38,
+      "n": 600
+    },
+    {
+      "fold": 2,
+      "n_samples": 600,
+      "fit_time_sec": 607.8,
+      "pred_time_sec": 84.3,
+      "internal_val_mae": 11.1031,
+      "internal_val_rmse": 11.367,
+      "internal_val_r2": -3.174226,
+      "per_property": {
+        "Compressive Strength": {
+          "mae": 6.3213,
+          "rmse": 7.9939,
+          "r2": -23.998505,
+          "mape": 21.1937,
+          "n": 200
+        },
+        "Flexural Strength": {
+          "mae": 0.2218,
+          "rmse": 0.2779,
+          "r2": 0.677801,
+          "mape": 4.9264,
+          "n": 200
+        },
+        "Split Tensile Strength": {
+          "mae": 0.1618,
+          "rmse": 0.2063,
+          "r2": -0.047032,
+          "mape": 5.5761,
+          "n": 200
+        }
+      },
+      "mae": 2.235,
+      "rmse": 4.6196,
+      "r2": 0.850002,
+      "mape": 10.5654,
+      "n": 600
+    },
+    {
+      "fold": 3,
+      "n_samples": 600,
+      "fit_time_sec": 599.1,
+      "pred_time_sec": 76.4,
+      "internal_val_mae": 6.7191,
+      "internal_val_rmse": 8.2699,
+      "internal_val_r2": -3.365706,
+      "per_property": {
+        "Compressive Strength": {
+          "mae": 5.4274,
+          "rmse": 6.8849,
+          "r2": -17.468673,
+          "mape": 20.5764,
+          "n": 200
+        },
+        "Flexural Strength": {
+          "mae": 0.2062,
+          "rmse": 0.2599,
+          "r2": 0.653436,
+          "mape": 4.9538,
+          "n": 200
+        },
+        "Split Tensile Strength": {
+          "mae": 0.1164,
+          "rmse": 0.1466,
+          "r2": 0.294322,
+          "mape": 4.1718,
+          "n": 200
+        }
+      },
+      "mae": 1.9167,
+      "rmse": 3.9787,
+      "r2": 0.861102,
+      "mape": 9.9007,
+      "n": 600
+    },
+    {
+      "fold": 4,
+      "n_samples": 500,
+      "fit_time_sec": 86.8,
+      "pred_time_sec": 13.7,
+      "internal_val_mae": 2.2479,
+      "internal_val_rmse": 2.5754,
+      "internal_val_r2": -0.369055,
+      "per_property": {
+        "Compressive Strength": {
+          "mae": 1.8187,
+          "rmse": 2.1215,
+          "r2": -1.222083,
+          "mape": 7.9917,
+          "n": 100
+        },
+        "Flexural Strength": {
+          "mae": 0.2129,
+          "rmse": 0.2592,
+          "r2": 0.52852,
+          "mape": 5.494,
+          "n": 200
+        },
+        "Split Tensile Strength": {
+          "mae": 0.1179,
+          "rmse": 0.1555,
+          "r2": 0.6049,
+          "mape": 4.9932,
+          "n": 200
+        }
+      },
+      "mae": 0.4961,
+      "rmse": 0.9678,
+      "r2": 0.98611,
+      "mape": 5.7933,
+      "n": 500
+    },
+    {
+      "fold": 5,
+      "n_samples": 500,
+      "fit_time_sec": 81.5,
+      "pred_time_sec": 14.1,
+      "internal_val_mae": 1.4782,
+      "internal_val_rmse": 1.8182,
+      "internal_val_r2": 0.317664,
+      "per_property": {
+        "Compressive Strength": {
+          "mae": 1.5254,
+          "rmse": 1.8716,
+          "r2": 0.801687,
+          "mape": 4.33,
+          "n": 200
+        },
+        "Flexural Strength": {
+          "mae": 0.7402,
+          "rmse": 0.776,
+          "r2": -10.022698,
+          "mape": 25.507,
+          "n": 100
+        },
+        "Split Tensile Strength": {
+          "mae": 0.5182,
+          "rmse": 0.5447,
+          "r2": -5.278971,
+          "mape": 27.2992,
+          "n": 200
+        }
+      },
+      "mae": 0.9655,
+      "rmse": 1.2807,
+      "r2": 0.994382,
+      "mape": 17.7531,
+      "n": 500
+    }
+  ],
+  "pooled_metrics": {
+    "overall": {
+      "mae": 2.2571,
+      "rmse": 4.3879,
+      "r2": 0.887205,
+      "mape": 33.7431,
+      "n": 2800
+    },
+    "per_property": {
+      "Compressive Strength": {
+        "mae": 3.4449,
+        "rmse": 5.1574,
+        "r2": 0.108003,
+        "mape": 12.0088,
+        "n": 900
+      },
+      "Flexural Strength": {
+        "mae": 2.1343,
+        "rmse": 4.8612,
+        "r2": -38.189604,
+        "mape": 44.5407,
+        "n": 900
+      },
+      "Split Tensile Strength": {
+        "mae": 1.2987,
+        "rmse": 2.9499,
+        "r2": -30.485695,
+        "mape": 43.5862,
+        "n": 1000
+      }
+    }
+  },
+  "stability": {
+    "mean_mae": 2.1554,
+    "std_mae": 1.6298,
+    "mean_rmse": 3.5911,
+    "std_rmse": 2.2716,
+    "mean_r2": 0.8884,
+    "std_r2": 0.0918
+  }
+}

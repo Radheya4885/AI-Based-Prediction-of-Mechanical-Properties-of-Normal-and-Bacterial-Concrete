@@ -1,0 +1,801 @@
+sample_id,experiment_id,concrete_type,bacterial_status,curing_age_days,mechanical_property,is_restored_value,strength_mpa_actual,strength_mpa_pred,residual,abs_error,model,feature_set,strategy
+CS_NC_07d_001,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,20.25,21.919,1.669,1.669,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_001,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,23.14,24.5315,1.3915,1.3915,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_002,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.29,21.919,2.629,2.629,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_002,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,20.62,24.5315,3.9115,3.9115,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_003,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,20.47,21.919,1.449,1.449,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_003,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,23.3,24.5315,1.2315,1.2315,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_004,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,21.78,21.919,0.139,0.139,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_004,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,24.03,24.5315,0.5015,0.5015,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_005,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.15,21.919,2.769,2.769,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_005,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,22.62,24.5315,1.9115,1.9115,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_006,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.15,21.919,2.769,2.769,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_006,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,24.82,24.5315,-0.2885,0.2885,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_007,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,21.87,21.919,0.049,0.049,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_007,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,20.84,24.5315,3.6915,3.6915,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_008,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,20.65,21.919,1.269,1.269,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_008,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,20.13,24.5315,4.4015,4.4015,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_009,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,18.8,21.919,3.119,3.119,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_009,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,19.33,24.5315,5.2015,5.2015,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_010,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,20.31,21.919,1.609,1.609,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_010,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,24.24,24.5315,0.2915,0.2915,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_011,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,18.8,21.919,3.119,3.119,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_011,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,22.98,24.5315,1.5515,1.5515,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_012,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,18.8,21.919,3.119,3.119,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_012,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.92,24.5315,2.6115,2.6115,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_013,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.86,21.919,2.059,2.059,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_013,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,22.42,24.5315,2.1115,2.1115,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_014,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,16.63,21.919,5.289,5.289,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_014,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,20.31,24.5315,4.2215,4.2215,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_015,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,16.91,21.919,5.009,5.009,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_015,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,25.67,24.5315,-1.1385,1.1385,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_016,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,18.66,21.919,3.259,3.259,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_016,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,22.19,24.5315,2.3415,2.3415,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_017,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,17.98,21.919,3.939,3.939,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_017,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,22.16,24.5315,2.3715,2.3715,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_018,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.97,21.919,1.949,1.949,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_018,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,23.09,24.5315,1.4415,1.4415,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_019,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,18.14,21.919,3.779,3.779,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_019,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,22.72,24.5315,1.8115,1.8115,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_020,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,17.38,21.919,4.539,4.539,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_020,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,22.34,24.5315,2.1915,2.1915,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_021,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,21.7,21.919,0.219,0.219,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_021,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,20.81,24.5315,3.7215,3.7215,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_022,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.16,21.919,2.759,2.759,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_022,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,22.71,24.5315,1.8215,1.8215,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_023,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.6,21.919,2.319,2.319,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_023,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,24.82,24.5315,-0.2885,0.2885,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_024,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,17.36,21.919,4.559,4.559,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_024,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,24.02,24.5315,0.5115,0.5115,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_025,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,18.68,21.919,3.239,3.239,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_025,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,24.39,24.5315,0.1415,0.1415,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_026,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.67,21.919,2.249,2.249,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_026,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.23,24.5315,3.3015,3.3015,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_027,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,17.77,21.919,4.149,4.149,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_027,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,20.52,24.5315,4.0115,4.0115,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_028,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,20.06,21.919,1.859,1.859,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_028,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.81,24.5315,2.7215,2.7215,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_029,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,18.6,21.919,3.319,3.319,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_029,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,22.08,24.5315,2.4515,2.4515,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_030,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.06,21.919,2.859,2.859,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_030,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,23.64,24.5315,0.8915,0.8915,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_031,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,18.6,21.919,3.319,3.319,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_031,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,19.46,24.5315,5.0715,5.0715,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_032,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,22.28,21.919,-0.361,0.361,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_032,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,24.29,24.5315,0.2415,0.2415,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_033,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.48,21.919,2.439,2.439,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_033,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.76,24.5315,2.7715,2.7715,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_034,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,17.91,21.919,4.009,4.009,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_034,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.36,24.5315,3.1715,3.1715,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_035,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,20.73,21.919,1.189,1.189,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_035,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,20.48,24.5315,4.0515,4.0515,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_036,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,17.67,21.919,4.249,4.249,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_036,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,19.52,24.5315,5.0115,5.0115,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_037,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.81,21.919,2.109,2.109,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_037,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,23.23,24.5315,1.3015,1.3015,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_038,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,16.56,21.919,5.359,5.359,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_038,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,22.11,24.5315,2.4215,2.4215,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_039,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,17.51,21.919,4.409,4.409,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_039,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,20.07,24.5315,4.4615,4.4615,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_040,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.8,21.919,2.119,2.119,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_040,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,20.06,24.5315,4.4715,4.4715,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_041,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,20.61,21.919,1.309,1.309,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_041,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.5,24.5315,3.0315,3.0315,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_042,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.76,21.919,2.159,2.159,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_042,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,24.5,24.5315,0.0315,0.0315,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_043,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.33,21.919,2.589,2.589,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_043,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.61,24.5315,2.9215,2.9215,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_044,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.05,21.919,2.869,2.869,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_044,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,19.75,24.5315,4.7815,4.7815,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_045,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,17.28,21.919,4.639,4.639,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_045,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.63,24.5315,2.9015,2.9015,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_046,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,18.42,21.919,3.499,3.499,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_046,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.59,24.5315,2.9415,2.9415,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_047,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,18.81,21.919,3.109,3.109,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_047,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,17.95,24.5315,6.5815,6.5815,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_048,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,21.09,21.919,0.829,0.829,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_048,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.92,24.5315,2.6115,2.6115,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_049,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,20.02,21.919,1.899,1.899,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_049,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.65,24.5315,2.8815,2.8815,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_050,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,16.86,21.919,5.059,5.059,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_050,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,23.04,24.5315,1.4915,1.4915,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_051,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.99,21.919,1.929,1.929,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_051,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,24.77,24.5315,-0.2385,0.2385,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_052,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,18.92,21.919,2.999,2.999,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_052,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,23.69,24.5315,0.8415,0.8415,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_053,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,18.48,21.919,3.439,3.439,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_053,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.6,24.5315,2.9315,2.9315,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_054,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,20.42,21.919,1.499,1.499,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_054,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,20.34,24.5315,4.1915,4.1915,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_055,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,21.05,21.919,0.869,0.869,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_055,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,25.86,24.5315,-1.3285,1.3285,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_056,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,20.9,21.919,1.019,1.019,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_056,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,22.09,24.5315,2.4415,2.4415,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_057,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,18.24,21.919,3.679,3.679,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_057,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,22.02,24.5315,2.5115,2.5115,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_058,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.04,21.919,2.879,2.879,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_058,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.96,24.5315,2.5715,2.5715,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_059,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,20.0,21.919,1.919,1.919,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_059,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,22.3,24.5315,2.2315,2.2315,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_060,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,20.96,21.919,0.959,0.959,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_060,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.78,24.5315,2.7515,2.7515,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_061,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,18.78,21.919,3.139,3.139,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_061,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.14,24.5315,3.3915,3.3915,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_062,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.22,21.919,2.699,2.699,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_062,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.18,24.5315,3.3515,3.3515,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_063,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,17.84,21.919,4.079,4.079,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_063,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.95,24.5315,2.5815,2.5815,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_064,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,17.71,21.919,4.209,4.209,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_064,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.18,24.5315,3.3515,3.3515,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_065,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,20.72,21.919,1.199,1.199,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_065,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,20.93,24.5315,3.6015,3.6015,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_066,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,21.53,21.919,0.389,0.389,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_066,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,22.16,24.5315,2.3715,2.3715,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_067,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.39,21.919,2.529,2.529,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_067,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.62,24.5315,2.9115,2.9115,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_068,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,21.01,21.919,0.909,0.909,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_068,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,24.26,24.5315,0.2715,0.2715,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_069,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,20.04,21.919,1.879,1.879,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_069,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,18.02,24.5315,6.5115,6.5115,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_070,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,18.53,21.919,3.389,3.389,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_070,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,23.64,24.5315,0.8915,0.8915,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_071,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,20.04,21.919,1.879,1.879,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_071,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,23.87,24.5315,0.6615,0.6615,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_072,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,21.81,21.919,0.109,0.109,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_072,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,18.89,24.5315,5.6415,5.6415,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_073,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.45,21.919,2.469,2.469,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_073,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.49,24.5315,3.0415,3.0415,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_074,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,21.85,21.919,0.069,0.069,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_074,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.44,24.5315,3.0915,3.0915,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_075,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,15.57,21.919,6.349,6.349,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_075,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,19.89,24.5315,4.6415,4.6415,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_076,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,20.73,21.919,1.189,1.189,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_076,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,20.83,24.5315,3.7015,3.7015,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_077,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.63,21.919,2.289,2.289,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_077,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,20.33,24.5315,4.2015,4.2015,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_078,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.05,21.919,2.869,2.869,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_078,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,24.63,24.5315,-0.0985,0.0985,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_079,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.64,21.919,2.279,2.279,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_079,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,23.4,24.5315,1.1315,1.1315,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_080,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,16.52,21.919,5.399,5.399,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_080,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,23.91,24.5315,0.6215,0.6215,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_081,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.17,21.919,2.749,2.749,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_081,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,23.08,24.5315,1.4515,1.4515,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_082,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,20.04,21.919,1.879,1.879,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_082,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,20.31,24.5315,4.2215,4.2215,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_083,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,21.72,21.919,0.199,0.199,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_083,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.21,24.5315,3.3215,3.3215,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_084,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,18.72,21.919,3.199,3.199,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_084,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,22.73,24.5315,1.8015,1.8015,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_085,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,18.29,21.919,3.629,3.629,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_085,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,20.17,24.5315,4.3615,4.3615,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_086,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,18.75,21.919,3.169,3.169,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_086,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,23.07,24.5315,1.4615,1.4615,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_087,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,20.87,21.919,1.049,1.049,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_087,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.64,24.5315,2.8915,2.8915,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_088,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.99,21.919,1.929,1.929,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_088,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.44,24.5315,3.0915,3.0915,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_089,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,18.71,21.919,3.209,3.209,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_089,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,23.07,24.5315,1.4615,1.4615,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_090,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,20.27,21.919,1.649,1.649,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_090,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,22.67,24.5315,1.8615,1.8615,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_091,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.65,21.919,2.269,2.269,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_091,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.46,24.5315,3.0715,3.0715,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_092,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,20.95,21.919,0.969,0.969,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_092,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,23.74,24.5315,0.7915,0.7915,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_093,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,18.45,21.919,3.469,3.469,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_093,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,20.38,24.5315,4.1515,4.1515,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_094,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.01,21.919,2.909,2.909,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_094,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,22.92,24.5315,1.6115,1.6115,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_095,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,18.91,21.919,3.009,3.009,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_095,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,22.89,24.5315,1.6415,1.6415,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_096,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,17.3,21.919,4.619,4.619,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_096,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.54,24.5315,2.9915,2.9915,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_097,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.94,21.919,1.979,1.979,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_097,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,22.49,24.5315,2.0415,2.0415,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_098,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.89,21.919,2.029,2.029,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_098,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,20.12,24.5315,4.4115,4.4115,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_099,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.51,21.919,2.409,2.409,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_099,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,23.39,24.5315,1.1415,1.1415,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_NC_07d_100,EXP_CS_NC_07d,Normal Concrete,Control,7,Compressive Strength,False,19.15,21.919,2.769,2.769,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_07d_100,EXP_CS_BC_07d,Bacterial Concrete,Inoculated,7,Compressive Strength,False,21.72,24.5315,2.8115,2.8115,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_001,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.55,33.4445,-0.1055,0.1055,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_002,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,32.41,33.4445,1.0345,1.0345,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_003,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.04,33.4445,0.4045,0.4045,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_004,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,34.92,33.4445,-1.4755,1.4755,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_005,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.29,33.4445,0.1545,0.1545,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_006,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.07,33.4445,0.3745,0.3745,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_007,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,30.96,33.4445,2.4845,2.4845,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_008,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,34.12,33.4445,-0.6755,0.6755,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_009,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.97,33.4445,-0.5255,0.5255,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_010,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,36.24,33.4445,-2.7955,2.7955,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_011,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,32.54,33.4445,0.9045,0.9045,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_012,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.33,33.4445,0.1145,0.1145,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_013,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.37,33.4445,0.0745,0.0745,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_014,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,35.37,33.4445,-1.9255,1.9255,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_015,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,32.86,33.4445,0.5845,0.5845,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_016,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.42,33.4445,0.0245,0.0245,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_017,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.91,33.4445,-0.4655,0.4655,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_018,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.28,33.4445,0.1645,0.1645,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_019,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,32.33,33.4445,1.1145,1.1145,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_020,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.29,33.4445,0.1545,0.1545,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_021,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,34.61,33.4445,-1.1655,1.1655,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_022,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,31.46,33.4445,1.9845,1.9845,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_023,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.2,33.4445,0.2445,0.2445,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_024,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,31.95,33.4445,1.4945,1.4945,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_025,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,34.79,33.4445,-1.3455,1.3455,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_026,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,30.72,33.4445,2.7245,2.7245,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_027,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,32.16,33.4445,1.2845,1.2845,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_028,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.57,33.4445,-0.1255,0.1255,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_029,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,35.35,33.4445,-1.9055,1.9055,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_030,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,32.9,33.4445,0.5445,0.5445,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_031,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,32.17,33.4445,1.2745,1.2745,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_032,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,35.82,33.4445,-2.3755,2.3755,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_033,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,30.83,33.4445,2.6145,2.6145,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_034,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,29.7,33.4445,3.7445,3.7445,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_035,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.66,33.4445,-0.2155,0.2155,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_036,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,32.25,33.4445,1.1945,1.1945,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_037,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,31.47,33.4445,1.9745,1.9745,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_038,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,34.06,33.4445,-0.6155,0.6155,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_039,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.37,33.4445,0.0745,0.0745,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_040,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,32.15,33.4445,1.2945,1.2945,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_041,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,31.08,33.4445,2.3645,2.3645,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_042,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,34.31,33.4445,-0.8655,0.8655,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_043,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.98,33.4445,-0.5355,0.5355,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_044,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,32.85,33.4445,0.5945,0.5945,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_045,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,35.77,33.4445,-2.3255,2.3255,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_046,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,31.39,33.4445,2.0545,2.0545,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_047,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,30.71,33.4445,2.7345,2.7345,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_048,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,31.96,33.4445,1.4845,1.4845,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_049,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,32.93,33.4445,0.5145,0.5145,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_050,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.37,33.4445,0.0745,0.0745,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_051,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,32.64,33.4445,0.8045,0.8045,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_052,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.53,33.4445,-0.0855,0.0855,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_053,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,31.12,33.4445,2.3245,2.3245,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_054,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,35.17,33.4445,-1.7255,1.7255,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_055,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,32.88,33.4445,0.5645,0.5645,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_056,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,34.68,33.4445,-1.2355,1.2355,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_057,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.51,33.4445,-0.0655,0.0655,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_058,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.69,33.4445,-0.2455,0.2455,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_059,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.85,33.4445,-0.4055,0.4055,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_060,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.67,33.4445,-0.2255,0.2255,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_061,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.96,33.4445,-0.5155,0.5155,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_062,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,34.99,33.4445,-1.5455,1.5455,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_063,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.29,33.4445,0.1545,0.1545,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_064,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,34.06,33.4445,-0.6155,0.6155,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_065,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,32.87,33.4445,0.5745,0.5745,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_066,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,35.16,33.4445,-1.7155,1.7155,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_067,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,31.99,33.4445,1.4545,1.4545,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_068,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,35.7,33.4445,-2.2555,2.2555,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_069,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,32.94,33.4445,0.5045,0.5045,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_070,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,30.85,33.4445,2.5945,2.5945,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_071,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.19,33.4445,0.2545,0.2545,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_072,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,31.98,33.4445,1.4645,1.4645,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_073,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,34.26,33.4445,-0.8155,0.8155,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_074,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,32.02,33.4445,1.4245,1.4245,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_075,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,32.33,33.4445,1.1145,1.1145,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_076,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,30.17,33.4445,3.2745,3.2745,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_077,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,32.32,33.4445,1.1245,1.1245,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_078,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,29.36,33.4445,4.0845,4.0845,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_079,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,30.62,33.4445,2.8245,2.8245,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_080,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,34.14,33.4445,-0.6955,0.6955,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_081,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,34.18,33.4445,-0.7355,0.7355,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_082,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.64,33.4445,-0.1955,0.1955,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_083,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,31.55,33.4445,1.8945,1.8945,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_084,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,32.93,33.4445,0.5145,0.5145,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_085,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,32.99,33.4445,0.4545,0.4545,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_086,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,31.26,33.4445,2.1845,2.1845,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_087,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,35.26,33.4445,-1.8155,1.8155,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_088,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,34.32,33.4445,-0.8755,0.8755,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_089,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,32.67,33.4445,0.7745,0.7745,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_090,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.04,33.4445,0.4045,0.4045,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_091,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.31,33.4445,0.1345,0.1345,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_092,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,29.94,33.4445,3.5045,3.5045,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_093,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,32.63,33.4445,0.8145,0.8145,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_094,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,31.98,33.4445,1.4645,1.4645,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_095,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,31.5,33.4445,1.9445,1.9445,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_096,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,32.58,33.4445,0.8645,0.8645,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_097,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,35.7,33.4445,-2.2555,2.2555,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_098,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.96,33.4445,-0.5155,0.5155,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_099,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,32.14,33.4445,1.3045,1.3045,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+CS_BC_28d_100,EXP_CS_BC_28d,Bacterial Concrete,Inoculated,28,Compressive Strength,False,33.86,33.4445,-0.4155,0.4155,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_001,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.565,5.0739,0.5089,0.5089,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_002,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.229,5.0739,0.8449,0.8449,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_003,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.735,5.0739,0.3389,0.3389,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_004,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.719,5.0739,0.3549,0.3549,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_005,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.836,5.0739,0.2379,0.2379,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_006,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.996,5.0739,0.0779,0.0779,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_007,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.706,5.0739,0.3679,0.3679,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_008,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.325,5.0739,0.7489,0.7489,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_009,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,5.046,5.0739,0.0279,0.0279,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_010,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.393,5.0739,0.6809,0.6809,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_011,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.351,5.0739,0.7229,0.7229,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_012,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.069,5.0739,1.0049,1.0049,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_013,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.393,5.0739,0.6809,0.6809,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_014,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.348,5.0739,0.7259,0.7259,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_015,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.386,5.0739,0.6879,0.6879,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_016,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.535,5.0739,0.5389,0.5389,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_017,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.653,5.0739,0.4209,0.4209,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_018,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.347,5.0739,0.7269,0.7269,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_019,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.338,5.0739,0.7359,0.7359,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_020,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.324,5.0739,0.7499,0.7499,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_021,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.96,5.0739,0.1139,0.1139,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_022,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.759,5.0739,0.3149,0.3149,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_023,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.543,5.0739,0.5309,0.5309,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_024,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.621,5.0739,0.4529,0.4529,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_025,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.637,5.0739,0.4369,0.4369,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_026,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.515,5.0739,0.5589,0.5589,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_027,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.446,5.0739,0.6279,0.6279,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_028,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.546,5.0739,0.5279,0.5279,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_029,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.702,5.0739,0.3719,0.3719,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_030,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.434,5.0739,0.6399,0.6399,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_031,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.55,5.0739,0.5239,0.5239,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_032,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.79,5.0739,0.2839,0.2839,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_033,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.753,5.0739,0.3209,0.3209,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_034,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.513,5.0739,0.5609,0.5609,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_035,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.826,5.0739,0.2479,0.2479,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_036,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.372,5.0739,0.7019,0.7019,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_037,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.576,5.0739,0.4979,0.4979,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_038,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.493,5.0739,0.5809,0.5809,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_039,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.32,5.0739,0.7539,0.7539,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_040,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.899,5.0739,0.1749,0.1749,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_041,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.353,5.0739,0.7209,0.7209,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_042,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.336,5.0739,0.7379,0.7379,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_043,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.661,5.0739,0.4129,0.4129,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_044,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.716,5.0739,0.3579,0.3579,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_045,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.831,5.0739,0.2429,0.2429,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_046,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.535,5.0739,0.5389,0.5389,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_047,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.825,5.0739,0.2489,0.2489,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_048,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.997,5.0739,0.0769,0.0769,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_049,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.308,5.0739,0.7659,0.7659,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_050,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.852,5.0739,0.2219,0.2219,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_051,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.925,5.0739,0.1489,0.1489,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_052,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.686,5.0739,0.3879,0.3879,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_053,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.455,5.0739,0.6189,0.6189,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_054,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.471,5.0739,0.6029,0.6029,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_055,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.777,5.0739,0.2969,0.2969,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_056,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.471,5.0739,0.6029,0.6029,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_057,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.503,5.0739,0.5709,0.5709,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_058,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.47,5.0739,0.6039,0.6039,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_059,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.767,5.0739,0.3069,0.3069,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_060,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.712,5.0739,0.3619,0.3619,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_061,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.791,5.0739,0.2829,0.2829,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_062,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.79,5.0739,0.2839,0.2839,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_063,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.465,5.0739,0.6089,0.6089,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_064,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.42,5.0739,0.6539,0.6539,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_065,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.455,5.0739,0.6189,0.6189,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_066,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.675,5.0739,0.3989,0.3989,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_067,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.494,5.0739,0.5799,0.5799,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_068,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.432,5.0739,0.6419,0.6419,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_069,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.93,5.0739,0.1439,0.1439,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_070,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.618,5.0739,0.4559,0.4559,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_071,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.84,5.0739,0.2339,0.2339,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_072,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.566,5.0739,0.5079,0.5079,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_073,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.995,5.0739,0.0789,0.0789,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_074,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.308,5.0739,0.7659,0.7659,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_075,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.799,5.0739,0.2749,0.2749,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_076,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.197,5.0739,0.8769,0.8769,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_077,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.292,5.0739,0.7819,0.7819,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_078,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.891,5.0739,0.1829,0.1829,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_079,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.794,5.0739,0.2799,0.2799,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_080,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.448,5.0739,0.6259,0.6259,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_081,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.63,5.0739,0.4439,0.4439,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_082,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.593,5.0739,0.4809,0.4809,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_083,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.755,5.0739,0.3189,0.3189,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_084,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.716,5.0739,0.3579,0.3579,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_085,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.96,5.0739,0.1139,0.1139,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_086,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,5.208,5.0739,-0.1341,0.1341,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_087,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.869,5.0739,0.2049,0.2049,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_088,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.917,5.0739,0.1569,0.1569,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_089,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,3.938,5.0739,1.1359,1.1359,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_090,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.591,5.0739,0.4829,0.4829,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_091,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.459,5.0739,0.6149,0.6149,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_092,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.32,5.0739,0.7539,0.7539,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_093,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.477,5.0739,0.5969,0.5969,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_094,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.307,5.0739,0.7669,0.7669,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_095,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.727,5.0739,0.3469,0.3469,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_096,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.74,5.0739,0.3339,0.3339,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_097,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.184,5.0739,0.8899,0.8899,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_098,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.919,5.0739,0.1549,0.1549,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_099,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.485,5.0739,0.5889,0.5889,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_NC_56d_100,EXP_FS_NC_56d,Normal Concrete,Control,56,Flexural Strength,False,4.707,5.0739,0.3669,0.3669,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_001,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.323,3.8986,0.5756,0.5756,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_002,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.584,3.8986,0.3146,0.3146,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_003,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.361,3.8986,0.5376,0.5376,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_004,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.655,3.8986,0.2436,0.2436,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_005,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.905,3.8986,-0.0064,0.0064,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_006,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.864,3.8986,0.0346,0.0346,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_007,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.289,3.8986,0.6096,0.6096,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_008,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.324,3.8986,0.5746,0.5746,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_009,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.252,3.8986,0.6466,0.6466,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_010,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.464,3.8986,0.4346,0.4346,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_011,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.506,3.8986,0.3926,0.3926,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_012,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.833,3.8986,0.0656,0.0656,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_013,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.705,3.8986,0.1936,0.1936,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_014,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.289,3.8986,0.6096,0.6096,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_015,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.489,3.8986,0.4096,0.4096,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_016,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.841,3.8986,0.0576,0.0576,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_017,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.242,3.8986,0.6566,0.6566,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_018,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.44,3.8986,0.4586,0.4586,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_019,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.452,3.8986,0.4466,0.4466,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_020,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.684,3.8986,0.2146,0.2146,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_021,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.963,3.8986,-0.0644,0.0644,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_022,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.401,3.8986,0.4976,0.4976,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_023,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.422,3.8986,0.4766,0.4766,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_024,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.326,3.8986,0.5726,0.5726,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_025,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.583,3.8986,0.3156,0.3156,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_026,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.548,3.8986,0.3506,0.3506,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_027,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.29,3.8986,0.6086,0.6086,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_028,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.564,3.8986,0.3346,0.3346,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_029,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.487,3.8986,0.4116,0.4116,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_030,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.603,3.8986,0.2956,0.2956,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_031,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,4.164,3.8986,-0.2654,0.2654,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_032,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.634,3.8986,0.2646,0.2646,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_033,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,2.687,3.8986,1.2116,1.2116,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_034,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.15,3.8986,0.7486,0.7486,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_035,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.894,3.8986,0.0046,0.0046,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_036,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.472,3.8986,0.4266,0.4266,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_037,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.119,3.8986,0.7796,0.7796,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_038,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.35,3.8986,0.5486,0.5486,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_039,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.618,3.8986,0.2806,0.2806,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_040,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.647,3.8986,0.2516,0.2516,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_041,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.441,3.8986,0.4576,0.4576,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_042,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.653,3.8986,0.2456,0.2456,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_043,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.41,3.8986,0.4886,0.4886,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_044,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.41,3.8986,0.4886,0.4886,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_045,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.613,3.8986,0.2856,0.2856,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_046,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.622,3.8986,0.2766,0.2766,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_047,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.507,3.8986,0.3916,0.3916,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_048,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.577,3.8986,0.3216,0.3216,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_049,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.137,3.8986,0.7616,0.7616,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_050,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.659,3.8986,0.2396,0.2396,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_051,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,4.0,3.8986,-0.1014,0.1014,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_052,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.506,3.8986,0.3926,0.3926,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_053,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.916,3.8986,-0.0174,0.0174,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_054,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.236,3.8986,0.6626,0.6626,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_055,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.772,3.8986,0.1266,0.1266,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_056,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.418,3.8986,0.4806,0.4806,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_057,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.738,3.8986,0.1606,0.1606,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_058,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.317,3.8986,0.5816,0.5816,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_059,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.474,3.8986,0.4246,0.4246,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_060,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.75,3.8986,0.1486,0.1486,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_061,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.78,3.8986,0.1186,0.1186,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_062,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.714,3.8986,0.1846,0.1846,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_063,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.444,3.8986,0.4546,0.4546,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_064,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.377,3.8986,0.5216,0.5216,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_065,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.555,3.8986,0.3436,0.3436,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_066,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.836,3.8986,0.0626,0.0626,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_067,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.605,3.8986,0.2936,0.2936,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_068,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.395,3.8986,0.5036,0.5036,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_069,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.563,3.8986,0.3356,0.3356,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_070,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.41,3.8986,0.4886,0.4886,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_071,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.412,3.8986,0.4866,0.4866,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_072,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.153,3.8986,0.7456,0.7456,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_073,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.431,3.8986,0.4676,0.4676,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_074,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.759,3.8986,0.1396,0.1396,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_075,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.734,3.8986,0.1646,0.1646,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_076,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.206,3.8986,0.6926,0.6926,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_077,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.574,3.8986,0.3246,0.3246,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_078,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.998,3.8986,-0.0994,0.0994,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_079,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.897,3.8986,0.0016,0.0016,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_080,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.398,3.8986,0.5006,0.5006,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_081,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.546,3.8986,0.3526,0.3526,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_082,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.544,3.8986,0.3546,0.3546,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_083,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.784,3.8986,0.1146,0.1146,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_084,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.484,3.8986,0.4146,0.4146,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_085,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.346,3.8986,0.5526,0.5526,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_086,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.577,3.8986,0.3216,0.3216,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_087,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.604,3.8986,0.2946,0.2946,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_088,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.682,3.8986,0.2166,0.2166,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_089,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.029,3.8986,0.8696,0.8696,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_090,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.327,3.8986,0.5716,0.5716,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_091,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.218,3.8986,0.6806,0.6806,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_092,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.631,3.8986,0.2676,0.2676,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_093,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.233,3.8986,0.6656,0.6656,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_094,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.861,3.8986,0.0376,0.0376,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_095,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.481,3.8986,0.4176,0.4176,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_096,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.483,3.8986,0.4156,0.4156,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_097,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.514,3.8986,0.3846,0.3846,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_098,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.643,3.8986,0.2556,0.2556,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_099,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.599,3.8986,0.2996,0.2996,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_07d_100,EXP_FS_BC_07d,Bacterial Concrete,Inoculated,7,Flexural Strength,False,3.762,3.8986,0.1366,0.1366,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_001,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.73,18.2072,12.4772,12.4772,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_002,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.483,18.2072,12.7242,12.7242,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_003,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.079,18.2072,12.1282,12.1282,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_004,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.925,18.2072,12.2822,12.2822,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_005,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.053,18.2072,12.1542,12.1542,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_006,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.44,18.2072,12.7672,12.7672,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_007,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.546,18.2072,12.6612,12.6612,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_008,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.713,18.2072,12.4942,12.4942,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_009,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.187,18.2072,12.0202,12.0202,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_010,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.617,18.2072,12.5902,12.5902,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_011,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.449,18.2072,12.7582,12.7582,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_012,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.821,18.2072,12.3862,12.3862,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_013,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.822,18.2072,12.3852,12.3852,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_014,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.034,18.2072,12.1732,12.1732,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_015,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.116,18.2072,12.0912,12.0912,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_016,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.529,18.2072,12.6782,12.6782,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_017,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.884,18.2072,12.3232,12.3232,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_018,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.347,18.2072,11.8602,11.8602,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_019,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.819,18.2072,12.3882,12.3882,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_020,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.116,18.2072,12.0912,12.0912,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_021,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.21,18.2072,11.9972,11.9972,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_022,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.742,18.2072,12.4652,12.4652,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_023,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.22,18.2072,11.9872,11.9872,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_024,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.601,18.2072,12.6062,12.6062,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_025,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.124,18.2072,12.0832,12.0832,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_026,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.981,18.2072,12.2262,12.2262,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_027,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.73,18.2072,12.4772,12.4772,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_028,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.448,18.2072,12.7592,12.7592,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_029,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.177,18.2072,12.0302,12.0302,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_030,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.719,18.2072,12.4882,12.4882,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_031,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.557,18.2072,12.6502,12.6502,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_032,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.129,18.2072,12.0782,12.0782,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_033,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.156,18.2072,12.0512,12.0512,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_034,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.995,18.2072,12.2122,12.2122,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_035,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.29,18.2072,12.9172,12.9172,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_036,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.637,18.2072,12.5702,12.5702,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_037,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.445,18.2072,11.7622,11.7622,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_038,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.03,18.2072,12.1772,12.1772,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_039,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.973,18.2072,12.2342,12.2342,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_040,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.999,18.2072,12.2082,12.2082,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_041,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.754,18.2072,12.4532,12.4532,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_042,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.892,18.2072,12.3152,12.3152,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_043,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.669,18.2072,12.5382,12.5382,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_044,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.357,18.2072,11.8502,11.8502,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_045,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.909,18.2072,12.2982,12.2982,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_046,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.237,18.2072,11.9702,11.9702,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_047,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.012,18.2072,12.1952,12.1952,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_048,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.399,18.2072,11.8082,11.8082,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_049,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.49,18.2072,11.7172,11.7172,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_050,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.133,18.2072,12.0742,12.0742,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_051,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.964,18.2072,12.2432,12.2432,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_052,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.289,18.2072,11.9182,11.9182,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_053,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.978,18.2072,12.2292,12.2292,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_054,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.465,18.2072,12.7422,12.7422,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_055,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.679,18.2072,12.5282,12.5282,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_056,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.897,18.2072,12.3102,12.3102,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_057,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.474,18.2072,11.7332,11.7332,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_058,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.365,18.2072,12.8422,12.8422,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_059,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.018,18.2072,12.1892,12.1892,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_060,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.191,18.2072,13.0162,13.0162,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_061,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.775,18.2072,12.4322,12.4322,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_062,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.742,18.2072,12.4652,12.4652,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_063,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.179,18.2072,12.0282,12.0282,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_064,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.812,18.2072,12.3952,12.3952,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_065,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.928,18.2072,12.2792,12.2792,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_066,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.061,18.2072,12.1462,12.1462,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_067,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.718,18.2072,12.4892,12.4892,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_068,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.313,18.2072,12.8942,12.8942,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_069,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.283,18.2072,11.9242,11.9242,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_070,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.187,18.2072,12.0202,12.0202,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_071,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.622,18.2072,12.5852,12.5852,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_072,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.194,18.2072,12.0132,12.0132,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_073,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.006,18.2072,12.2012,12.2012,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_074,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.365,18.2072,12.8422,12.8422,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_075,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.87,18.2072,12.3372,12.3372,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_076,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.11,18.2072,12.0972,12.0972,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_077,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.45,18.2072,11.7572,11.7572,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_078,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.925,18.2072,12.2822,12.2822,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_079,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.321,18.2072,11.8862,11.8862,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_080,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.274,18.2072,11.9332,11.9332,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_081,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.487,18.2072,12.7202,12.7202,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_082,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.634,18.2072,12.5732,12.5732,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_083,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.224,18.2072,12.9832,12.9832,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_084,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.714,18.2072,12.4932,12.4932,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_085,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.081,18.2072,12.1262,12.1262,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_086,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.259,18.2072,11.9482,11.9482,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_087,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.178,18.2072,12.0292,12.0292,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_088,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.798,18.2072,12.4092,12.4092,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_089,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.754,18.2072,12.4532,12.4532,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_090,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.437,18.2072,11.7702,11.7702,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_091,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.239,18.2072,11.9682,11.9682,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_092,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.137,18.2072,12.0702,12.0702,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_093,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.518,18.2072,12.6892,12.6892,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_094,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.125,18.2072,12.0822,12.0822,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_095,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.914,18.2072,12.2932,12.2932,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_096,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.691,18.2072,12.5162,12.5162,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_097,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,6.374,18.2072,11.8332,11.8332,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_098,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.971,18.2072,12.2362,12.2362,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_099,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.77,18.2072,12.4372,12.4372,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+FS_BC_90d_100,EXP_FS_BC_90d,Bacterial Concrete,Inoculated,90,Flexural Strength,True,5.842,18.2072,12.3652,12.3652,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_001,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.505,2.5203,0.0153,0.0153,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_002,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.31,2.5203,0.2103,0.2103,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_003,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.73,2.5203,-0.2097,0.2097,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_004,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.503,2.5203,0.0173,0.0173,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_005,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.399,2.5203,0.1213,0.1213,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_006,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.369,2.5203,0.1513,0.1513,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_007,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.387,2.5203,0.1333,0.1333,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_008,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.263,2.5203,0.2573,0.2573,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_009,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.386,2.5203,0.1343,0.1343,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_010,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.442,2.5203,0.0783,0.0783,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_011,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.487,2.5203,0.0333,0.0333,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_012,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.487,2.5203,0.0333,0.0333,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_013,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.359,2.5203,0.1613,0.1613,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_014,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.188,2.5203,0.3323,0.3323,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_015,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.3,2.5203,0.2203,0.2203,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_016,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.642,2.5203,-0.1217,0.1217,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_017,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.534,2.5203,-0.0137,0.0137,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_018,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.455,2.5203,0.0653,0.0653,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_019,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.286,2.5203,0.2343,0.2343,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_020,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.401,2.5203,0.1193,0.1193,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_021,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.212,2.5203,0.3083,0.3083,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_022,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.317,2.5203,0.2033,0.2033,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_023,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.363,2.5203,0.1573,0.1573,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_024,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.346,2.5203,0.1743,0.1743,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_025,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.543,2.5203,-0.0227,0.0227,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_026,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.187,2.5203,0.3333,0.3333,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_027,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.27,2.5203,0.2503,0.2503,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_028,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.194,2.5203,0.3263,0.3263,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_029,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.214,2.5203,0.3063,0.3063,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_030,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.419,2.5203,0.1013,0.1013,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_031,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.16,2.5203,0.3603,0.3603,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_032,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.513,2.5203,0.0073,0.0073,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_033,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.363,2.5203,0.1573,0.1573,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_034,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.41,2.5203,0.1103,0.1103,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_035,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.448,2.5203,0.0723,0.0723,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_036,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.335,2.5203,0.1853,0.1853,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_037,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.555,2.5203,-0.0347,0.0347,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_038,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.371,2.5203,0.1493,0.1493,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_039,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.489,2.5203,0.0313,0.0313,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_040,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.37,2.5203,0.1503,0.1503,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_041,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.444,2.5203,0.0763,0.0763,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_042,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.442,2.5203,0.0783,0.0783,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_043,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.437,2.5203,0.0833,0.0833,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_044,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.254,2.5203,0.2663,0.2663,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_045,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.465,2.5203,0.0553,0.0553,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_046,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.352,2.5203,0.1683,0.1683,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_047,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.495,2.5203,0.0253,0.0253,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_048,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.077,2.5203,0.4433,0.4433,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_049,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.18,2.5203,0.3403,0.3403,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_050,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.455,2.5203,0.0653,0.0653,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_051,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.679,2.5203,-0.1587,0.1587,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_052,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.525,2.5203,-0.0047,0.0047,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_053,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.298,2.5203,0.2223,0.2223,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_054,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.146,2.5203,0.3743,0.3743,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_055,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.511,2.5203,0.0093,0.0093,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_056,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.388,2.5203,0.1323,0.1323,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_057,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.489,2.5203,0.0313,0.0313,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_058,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.417,2.5203,0.1033,0.1033,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_059,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.404,2.5203,0.1163,0.1163,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_060,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.844,2.5203,-0.3237,0.3237,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_061,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.399,2.5203,0.1213,0.1213,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_062,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.376,2.5203,0.1443,0.1443,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_063,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.382,2.5203,0.1383,0.1383,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_064,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.312,2.5203,0.2083,0.2083,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_065,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.549,2.5203,-0.0287,0.0287,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_066,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.347,2.5203,0.1733,0.1733,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_067,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.495,2.5203,0.0253,0.0253,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_068,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.443,2.5203,0.0773,0.0773,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_069,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.583,2.5203,-0.0627,0.0627,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_070,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.463,2.5203,0.0573,0.0573,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_071,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.218,2.5203,0.3023,0.3023,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_072,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.201,2.5203,0.3193,0.3193,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_073,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.611,2.5203,-0.0907,0.0907,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_074,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.309,2.5203,0.2113,0.2113,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_075,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.202,2.5203,0.3183,0.3183,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_076,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.3,2.5203,0.2203,0.2203,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_077,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.59,2.5203,-0.0697,0.0697,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_078,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.187,2.5203,0.3333,0.3333,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_079,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.27,2.5203,0.2503,0.2503,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_080,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.3,2.5203,0.2203,0.2203,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_081,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.212,2.5203,0.3083,0.3083,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_082,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.222,2.5203,0.2983,0.2983,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_083,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.172,2.5203,0.3483,0.3483,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_084,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.331,2.5203,0.1893,0.1893,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_085,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.347,2.5203,0.1733,0.1733,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_086,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.298,2.5203,0.2223,0.2223,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_087,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.152,2.5203,0.3683,0.3683,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_088,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.588,2.5203,-0.0677,0.0677,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_089,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.201,2.5203,0.3193,0.3193,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_090,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.442,2.5203,0.0783,0.0783,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_091,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.239,2.5203,0.2813,0.2813,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_092,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.5,2.5203,0.0203,0.0203,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_093,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.543,2.5203,-0.0227,0.0227,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_094,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.268,2.5203,0.2523,0.2523,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_095,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.111,2.5203,0.4093,0.4093,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_096,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.504,2.5203,0.0163,0.0163,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_097,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.681,2.5203,-0.1607,0.1607,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_098,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.462,2.5203,0.0583,0.0583,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_099,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.424,2.5203,0.0963,0.0963,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_NC_21d_100,EXP_TS_NC_21d,Normal Concrete,Control,21,Split Tensile Strength,False,2.523,2.5203,-0.0027,0.0027,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_001,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.703,7.6509,3.9479,3.9479,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_002,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,4.036,7.6509,3.6149,3.6149,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_003,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.913,7.6509,3.7379,3.7379,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_004,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.843,7.6509,3.8079,3.8079,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_005,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.831,7.6509,3.8199,3.8199,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_006,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.817,7.6509,3.8339,3.8339,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_007,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.868,7.6509,3.7829,3.7829,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_008,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.708,7.6509,3.9429,3.9429,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_009,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,4.029,7.6509,3.6219,3.6219,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_010,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.823,7.6509,3.8279,3.8279,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_011,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.89,7.6509,3.7609,3.7609,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_012,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.735,7.6509,3.9159,3.9159,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_013,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.856,7.6509,3.7949,3.7949,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_014,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.458,7.6509,4.1929,4.1929,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_015,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.632,7.6509,4.0189,4.0189,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_016,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.795,7.6509,3.8559,3.8559,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_017,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.602,7.6509,4.0489,4.0489,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_018,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,4.166,7.6509,3.4849,3.4849,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_019,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.55,7.6509,4.1009,4.1009,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_020,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.852,7.6509,3.7989,3.7989,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_021,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,4.048,7.6509,3.6029,3.6029,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_022,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.872,7.6509,3.7789,3.7789,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_023,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.753,7.6509,3.8979,3.8979,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_024,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.717,7.6509,3.9339,3.9339,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_025,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.901,7.6509,3.7499,3.7499,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_026,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.68,7.6509,3.9709,3.9709,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_027,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.782,7.6509,3.8689,3.8689,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_028,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.904,7.6509,3.7469,3.7469,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_029,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.754,7.6509,3.8969,3.8969,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_030,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.813,7.6509,3.8379,3.8379,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_031,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.754,7.6509,3.8969,3.8969,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_032,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.655,7.6509,3.9959,3.9959,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_033,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.978,7.6509,3.6729,3.6729,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_034,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,4.009,7.6509,3.6419,3.6419,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_035,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.752,7.6509,3.8989,3.8989,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_036,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.76,7.6509,3.8909,3.8909,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_037,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.773,7.6509,3.8779,3.8779,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_038,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.881,7.6509,3.7699,3.7699,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_039,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.664,7.6509,3.9869,3.9869,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_040,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.787,7.6509,3.8639,3.8639,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_041,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.839,7.6509,3.8119,3.8119,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_042,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.896,7.6509,3.7549,3.7549,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_043,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.383,7.6509,4.2679,4.2679,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_044,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.861,7.6509,3.7899,3.7899,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_045,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.852,7.6509,3.7989,3.7989,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_046,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.951,7.6509,3.6999,3.6999,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_047,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.721,7.6509,3.9299,3.9299,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_048,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.722,7.6509,3.9289,3.9289,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_049,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.98,7.6509,3.6709,3.6709,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_050,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.566,7.6509,4.0849,4.0849,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_051,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,4.044,7.6509,3.6069,3.6069,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_052,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,4.183,7.6509,3.4679,3.4679,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_053,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.872,7.6509,3.7789,3.7789,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_054,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.922,7.6509,3.7289,3.7289,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_055,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.577,7.6509,4.0739,4.0739,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_056,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.696,7.6509,3.9549,3.9549,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_057,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.959,7.6509,3.6919,3.6919,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_058,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.854,7.6509,3.7969,3.7969,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_059,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.773,7.6509,3.8779,3.8779,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_060,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.835,7.6509,3.8159,3.8159,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_061,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.876,7.6509,3.7749,3.7749,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_062,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.756,7.6509,3.8949,3.8949,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_063,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.796,7.6509,3.8549,3.8549,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_064,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.795,7.6509,3.8559,3.8559,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_065,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.642,7.6509,4.0089,4.0089,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_066,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.849,7.6509,3.8019,3.8019,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_067,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,4.071,7.6509,3.5799,3.5799,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_068,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,4.06,7.6509,3.5909,3.5909,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_069,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.579,7.6509,4.0719,4.0719,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_070,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.886,7.6509,3.7649,3.7649,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_071,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.901,7.6509,3.7499,3.7499,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_072,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.738,7.6509,3.9129,3.9129,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_073,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.655,7.6509,3.9959,3.9959,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_074,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.602,7.6509,4.0489,4.0489,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_075,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.733,7.6509,3.9179,3.9179,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_076,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.853,7.6509,3.7979,3.7979,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_077,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.776,7.6509,3.8749,3.8749,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_078,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.708,7.6509,3.9429,3.9429,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_079,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.613,7.6509,4.0379,4.0379,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_080,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.853,7.6509,3.7979,3.7979,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_081,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.96,7.6509,3.6909,3.6909,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_082,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.661,7.6509,3.9899,3.9899,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_083,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.867,7.6509,3.7839,3.7839,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_084,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.518,7.6509,4.1329,4.1329,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_085,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.701,7.6509,3.9499,3.9499,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_086,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.909,7.6509,3.7419,3.7419,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_087,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.632,7.6509,4.0189,4.0189,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_088,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.709,7.6509,3.9419,3.9419,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_089,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,4.013,7.6509,3.6379,3.6379,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_090,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.69,7.6509,3.9609,3.9609,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_091,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.672,7.6509,3.9789,3.9789,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_092,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.886,7.6509,3.7649,3.7649,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_093,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,4.093,7.6509,3.5579,3.5579,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_094,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.764,7.6509,3.8869,3.8869,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_095,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.915,7.6509,3.7359,3.7359,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_096,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,4.002,7.6509,3.6489,3.6489,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_097,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.849,7.6509,3.8019,3.8019,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_098,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.76,7.6509,3.8909,3.8909,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_099,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.669,7.6509,3.9819,3.9819,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified
+TS_BC_90d_100,EXP_TS_BC_90d,Bacterial Concrete,Inoculated,90,Split Tensile Strength,False,3.586,7.6509,4.0649,4.0649,TabPFN_Pretrained_Final,V2_ENGINEERED,Unified

@@ -1,0 +1,163 @@
+{
+  "phase": "5",
+  "timestamp": "2026-10-07T17:55:48.000834+00:00",
+  "final_model": "TabPFN_Pretrained_v2.5",
+  "feature_set": "V2_ENGINEERED",
+  "strategy": "Unified",
+  "n_features": 11,
+  "features": [
+    "curing_age_days",
+    "concrete_type",
+    "bacterial_concentration_cells_ml",
+    "mechanical_property",
+    "age_log",
+    "age_sqrt",
+    "bacterial_present",
+    "bacterial_concentration_log",
+    "age_x_bacterial",
+    "age_log_x_bacterial",
+    "age_squared"
+  ],
+  "random_state": 42,
+  "n_estimators": 4,
+  "device": "cpu",
+  "torch_version": "2.14.1+cpu",
+  "ckpt_path": "tabpfn-v2.5-regressor-v2.5_real.ckpt",
+  "ckpt_sha256": "8ab42d2d0abe3886a2c54a336b2abf251658a23a9b3f6559c4fdf0c024f48e63",
+  "train_rows": 2800,
+  "test_rows": 800,
+  "test_cohorts": [
+    "EXP_CS_BC_07d",
+    "EXP_CS_BC_28d",
+    "EXP_CS_NC_07d",
+    "EXP_FS_BC_07d",
+    "EXP_FS_BC_90d",
+    "EXP_FS_NC_56d",
+    "EXP_TS_BC_90d",
+    "EXP_TS_NC_21d"
+  ],
+  "train_time_s": 0.23,
+  "pred_time_s": 39.14,
+  "master_csv_sha256": "0d18690dac46ce06ccb3bca1c8b7eb1dd752b7cbcc9d95821473730afb70000a",
+  "master_parq_sha256": "0909cb72fcf61bcff7a1e9f98f2f0363953f7d4a346b0dd41da7da0efa63678a",
+  "metrics_overall": {
+    "mae": 2.9342633845431214,
+    "rmse": 4.822469498209411,
+    "r2": 0.7993103683894873,
+    "mape": 46.10063691145258,
+    "n": 800
+  },
+  "metrics_by_property": {
+    "Compressive Strength": {
+      "mae": 2.1051904721479096,
+      "rmse": 2.548479397712289,
+      "r2": 0.8257198419997838,
+      "mape": 9.900851412470837,
+      "n": 300
+    },
+    "Flexural Strength": {
+      "mae": 4.383150480079029,
+      "rmse": 7.111200363976582,
+      "r2": -48.679864610401765,
+      "mape": 76.86878198566414,
+      "n": 300
+    },
+    "Split Tensile Strength": {
+      "mae": 2.004542109832076,
+      "rmse": 2.725613959984709,
+      "r2": -13.15244886211338,
+      "mape": 54.2480975486079,
+      "n": 200
+    }
+  },
+  "metrics_by_concrete_type": {
+    "Bacterial Concrete": {
+      "mae": 4.050438573251772,
+      "rmse": 5.954207983458458,
+      "r2": 0.7504553911599117,
+      "mape": 67.43030042588123,
+      "n": 500
+    },
+    "Normal Concrete": {
+      "mae": 1.0739714033620353,
+      "rmse": 1.7114061409533838,
+      "r2": 0.9488812468997266,
+      "mape": 10.551197720738191,
+      "n": 300
+    }
+  },
+  "metrics_by_cohort": {
+    "EXP_CS_BC_07d": {
+      "mae": 2.56319694045437,
+      "rmse": 2.960577099340006,
+      "r2": -2.4547000012389923,
+      "mape": 12.181790192576923,
+      "n": 100
+    },
+    "EXP_CS_BC_28d": {
+      "mae": 1.1705730922395756,
+      "rmse": 1.5009693452206807,
+      "r2": -0.07751103265086434,
+      "mape": 3.6075794921010975,
+      "n": 100
+    },
+    "EXP_CS_NC_07d": {
+      "mae": 2.581801383749785,
+      "rmse": 2.909693452111973,
+      "r2": -3.6066448569253744,
+      "mape": 13.913184552734496,
+      "n": 100
+    },
+    "EXP_FS_BC_07d": {
+      "mae": 0.3779547301291277,
+      "rmse": 0.4364556131640908,
+      "r2": -2.4073505946213394,
+      "mape": 11.170521449763335,
+      "n": 100
+    },
+    "EXP_FS_BC_90d": {
+      "mae": 12.293892554426009,
+      "rmse": 12.297799015143774,
+      "r2": -1573.2834043913451,
+      "mape": 208.76518438415766,
+      "n": 100
+    },
+    "EXP_FS_NC_56d": {
+      "mae": 0.4776041556819517,
+      "rmse": 0.5302430864503827,
+      "r2": -4.05626084644554,
+      "mape": 10.67064012307136,
+      "n": 100
+    },
+    "EXP_TS_BC_90d": {
+      "mae": 3.846575549009782,
+      "rmse": 3.8495043441773005,
+      "r2": -656.4323362993551,
+      "mape": 101.42642661080707,
+      "n": 100
+    },
+    "EXP_TS_NC_21d": {
+      "mae": 0.16250867065437022,
+      "rmse": 0.1981394001382363,
+      "r2": -0.857198654694515,
+      "mape": 7.0697684864087185,
+      "n": 100
+    }
+  },
+  "metrics_restored_only": {
+    "mae": 12.293892554426009,
+    "rmse": 12.297799015143774,
+    "r2": -1573.2834043913451,
+    "mape": 208.76518438415766,
+    "n": 100
+  },
+  "metrics_non_restored_only": {
+    "mae": 1.5971735031312801,
+    "rmse": 2.2301132537676165,
+    "r2": 0.9607474753601072,
+    "mape": 22.86284441535186,
+    "n": 700
+  },
+  "model_selection_basis": "OOF development evidence (Phase 4.1 + 4.2); compressive-strength primacy (TabPFN OOF MAE=1.6168 MPa vs best classical XGBoost Core 2.3800 MPa, 32.1% reduction) and foundation-model benchmarking scope; final test set 100% sealed during selection.",
+  "dev_test_leakage": "ZERO \u2014 verified by sample_id and experiment_id intersection"
+}
