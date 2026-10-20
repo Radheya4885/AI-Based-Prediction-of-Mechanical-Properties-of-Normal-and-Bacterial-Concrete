@@ -1,0 +1,35 @@
+# Exclude large files that cannot fit in Vercel's 250MB serverless bundle
+
+# TabPFN checkpoint (40MB) — PyTorch not supported on Vercel serverless
+models/tabpfn-v2.5-regressor-v2.5_real.ckpt
+models/tabpfn-v2.5-regressor-v2.5_real.ckpt.lfs_ptr
+
+# Raw data files (not needed at inference time)
+data/
+
+# Jupyter notebooks
+notebooks/
+
+# Reports and figures
+reports/
+
+# Results (except frontend which is in /public)
+results/
+
+# Source scripts not needed at runtime
+src/
+
+# Dev tools
+.venv/
+*.bat
+*.log
+generate_phase41_report.py
+verify_phase41.py
+debug_r2.py
+fix_encoding.py
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
