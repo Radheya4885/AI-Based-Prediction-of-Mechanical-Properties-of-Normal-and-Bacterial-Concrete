@@ -3,8 +3,10 @@ title: Concrete Strength Predictor
 emoji: 🏗️
 colorFrom: blue
 colorTo: indigo
-sdk: docker
-app_port: 7860
+sdk: gradio
+sdk_version: 4.44.0
+app_file: app.py
+pinned: false
 ---
 
 # AI-Based Prediction of Mechanical Properties of Normal and Bacterial Concrete
